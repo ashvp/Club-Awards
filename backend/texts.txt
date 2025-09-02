@@ -1,0 +1,15 @@
+how to group clubs??
+    - we get the club name, and what they stand for, like omnia is community, rhythm is dance, 
+    ameya is classical dance, etc.. so i could grp rhythm and ameya together under dance clubs, 
+    or even a broader category like entertainment club, along with atwas (theatre) and film club.
+    - grouping can be done by an llm?? or some rule based algorithm or a ml to determine the key word
+    and bring it under an umbrella term, like dim reduction techniques - K-means is good ig, i'll scrape 
+    from SNUC website..
+        * used sentence embeddings to to vectorise and then used DBSCAN to group them.. 
+        tuned hyper-parameter to work for my manual data.. 
+        now have to figure out a way to either scrape the data from a website or somewhere..
+        
+        ? Now thinking of Outlook mails, because all official communications is through that, 
+        so any recognised event would be communicated through that.
+            > cannot use Azure APIs since they are not allowed for students by my organisations. (Entra)
+            so for the sake of simplicity, im exporting all mails as csv and then filtering whats needed.
