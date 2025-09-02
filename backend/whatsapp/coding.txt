@@ -1,0 +1,807 @@
+21/03/25, 13:06 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+17/10/24, 14:25 - Muthu SNU 3rd Year created group "SNUCCC | Official Discussion "
+21/03/25, 13:06 - You joined using this group's invite link
+21/03/25, 14:18 - ~ Sowmi Boopa.. 🥰 added ~ ~NhoJ, ~ Jeevitha Selvakumar ❣️, ~ Selva Rathi L and ~ vinoth
+23/03/25, 20:52 - +91 90434 04660 joined using this group's invite link
+25/03/25, 13:24 - +91 90427 82739 joined using this group's invite link
+26/03/25, 13:28 - +91 96771 96957: Dear all
+
+*Data, Tactics, and Papers* is due to begin at 1:35PM @ AB1 Seminar Hall 
+
+Ensure you are there on time! Don’t miss out on the opportunity
+26/04/25, 11:10 - +91 88706 34714 changed their phone number to a new number. Tap to message or add the new number.
+08/05/25, 14:13 - +91 98400 20605: Dear Students,
+
+We’re excited to announce that the Cybersecurity Vertical Inductions are now open — exclusively for 1st and 2nd year students!
+
+If you’ve ever been curious about ethical hacking, digital forensics, or the broader world of cybersecurity, this is your opportunity to dive in and be part of a passionate, hands-on community.
+
+To begin, please fill out the form linked below. It includes a few short questions to help us understand your interests, background, and motivation for joining the vertical.
+
+🔗 https://forms.office.com/r/aXJnXu6QLG 
+
+Deadline: 13th May, 11:59 PM
+
+Please note that shortlisted applicants will be invited for a short interview to better understand your interest and fit for the team.
+
+We’re not looking for prior experience — just enthusiasm, curiosity, and a willingness to learn. If that sounds like you, we encourage you to apply!
+
+For any queries, feel free to reach out:
+Vishal - 9840020605
+Aditya B - 8838711459
+Rejen - 74182 42633
+
+Looking forward to your responses!
+
+Warm regards,
+Coding Club
+Cybersecurity Vertical <This message was edited>
+08/05/25, 14:28 - +91 63829 10364 changed their phone number to a new number. Tap to message or add the new number.
+26/05/25, 18:55 - +91 95979 78293 changed to +1 (904) 917-1749
+26/05/25, 19:06 - +1 (904) 917-1749 changed to +91 95979 78293
+26/05/25, 19:16 - +91 95979 78293 changed to +1 (904) 917-1749
+27/05/25, 11:15 - +91 63822 30940: This message was deleted
+27/05/25, 11:21 - +91 63822 30940: Hey everyone!
+
+We’ve officially kicked off the Machine Learning vertical for this year, and we’re now opening PoC recruitment for first-years.
+
+If you're excited about planning events, learning new things, and being part of cool ML projects, this is your chance to jump in and contribute 
+
+📌 Apply here: https://forms.office.com/r/cYLtg03eUq
+🗓️ Deadline: June 15th, 11:59 PM
+
+We’re not expecting you to come in with prior experience — we’re more interested in your curiosity, drive, and interest in building with us.
+
+Shortlisted folks will have a quick chat with us so we can get to know your vibe and how you'd fit into the team.
+
+For any queries, feel free to reach out!
+Jayashre - 6382230940
+Harshitha - 8610540015
+Supritha - 9884180836
+
+Looking forward to your responses!
+
+Best,
+Coding Club
+Machine Learning Vertical <This message was edited>
+03/06/25, 17:49 - Abhivanth Sivaprakash AI & DS was added
+03/06/25, 17:43 - ~ Krish added Abhivanth Sivaprakash AI & DS
+05/06/25, 10:58 - +91 93424 38774 joined using this group's invite link
+09/06/25, 12:49 - Muthu SNU 3rd Year: https://walmart.converge.tech/content/converge/en_in/sparkathon.html
+
+Try it out :)
+09/06/25, 13:42 - ~ 𝒥. added +91 72001 78956
+09/06/25, 13:43 - ~ 𝒥. added ~ Ameen
+09/06/25, 13:57 - ~ 𝒥. added ~ Sibin and +91 98407 81061
+18/06/25, 10:24 - +91 80720 42393: Hey folks! 👋
+
+🚀 *QuickDrop* — my open-source file sharing app — is now accepting contributions!
+
+It’s fast, secure & doesn’t rely on cloud storage — built to be minimal, modern, and practical.
+
+✨ *Key Features:*
+
+* Drag & Drop UI
+
+* QR Code Sharing
+
+* Encrypted Transfers (via ngrok)
+
+* Responsive Design (Desktop & Mobile)
+
+🔧 *Tech Stack:* React, Node.js, Express, TypeScript
+
+💡 Whether you're starting with JavaScript or want to learn open-source contribution, this is a great project to begin with!
+
+📘 I’ve added a CONTRIBUTING.md guide with detailed steps on how to contribute the right way.
+✅ Once your feature is tested, matches the standards, and is approved — it goes live in production!
+
+🔥 We’re looking for contributors in:
+
+* Frontend (React/UI)
+
+* Backend (API & Security)
+
+* Docs, Testing, Performance, UX
+
+🛠 Repo: https://github.com/SreeAditya-Dev/QuickDrop
+🌐 Live Demo: https://quickdrop-4ost.onrender.com/
+
+_📣 Please share this with your developer friends — let’s build a strong open-source community together! 💪_
+— Sree Aditya
+
+#OpenSource #JavaScript #ReactJS #NodeJS #WebDev #DevCommunity #Hacktoberfest #QuickDrop
+08/07/25, 12:24 - +91 90800 03569: https://iicpc.com/
+
+Registration for quant fest is now open, go check it out. It's a national quantitative finance challenge. Winners get opportunities to work with quant companies like jane street, Hudson river, tower research, etc.
+
+These are some of THE biggest quants globally, so do give it a shot if you're interested. Registration is free.
+08/07/25, 12:27 - +91 99401 34797: Jane street, Optiver, etc. pay 6 cr. packages to a few people I know at IIT-M who got hired.
+
+This is a good lateral xD
+08/07/25, 12:38 - +91 96771 96957: Especially if you are strong in math and interested in markets. You'll really love this
+08/07/25, 12:39 - +91 98400 20605: I second this
+08/07/25, 12:49 - Aditya SNU 3rd year: Jane street ain't gonna hire anymore tho 😔
+08/07/25, 12:49 - Aditya SNU 3rd year: But still huge opportunities in other quant firms
+08/07/25, 12:50 - +91 82963 71400: overseas, yes
+08/07/25, 12:55 - +91 90800 03569: They're sponsoring this and hiring from here as on website
+08/07/25, 12:58 - Aditya SNU 3rd year: Who knows how much SEBI is gonna fuck them over for market manipulation
+08/07/25, 12:58 - Aditya SNU 3rd year: But quant 📈
+12/07/25, 22:55 - +91 63008 71682 joined using this group's invite link
+20/07/25, 21:21 - +91 99402 55513: Guys does anyone know how to change a tamil pdf to word doc? Or edit it at least?
+20/07/25, 21:25 - Selva Ganesh AI & DS: Ask chatgpt
+20/07/25, 21:26 - +91 99402 55513: The text gets broken into some unknown alien symbols
+20/07/25, 21:27 - Selva Ganesh AI & DS: Gemini ?
+20/07/25, 21:27 - +91 96771 96957: It's an encoding issue da
+20/07/25, 21:28 - +91 99402 55513: Oh
+20/07/25, 21:28 - +91 99402 55513: Is there any way to resolve it?
+20/07/25, 21:28 - +91 98400 20605: This is a better way I’d say
+20/07/25, 21:28 - +91 99402 55513: It's for a singapore based school.. i kinda love tamil so I took up this gig
+20/07/25, 21:28 - +91 78457 68496: Do it using Adobe, ms word has some problem
+20/07/25, 21:29 - Selva Ganesh AI & DS: Use gemini vison pro
+20/07/25, 21:30 - +91 75501 05405: fr
+20/07/25, 21:30 - +91 98400 20605: What Font are you using though?
+20/07/25, 21:30 - +91 99402 55513: I just wanna convert it
+20/07/25, 21:30 - +91 99402 55513: its alr typed
+20/07/25, 21:30 - +91 98400 20605: Some Fonts don’t have support for Tamil Symbols so you get weird Alien ah Chars instead
+20/07/25, 21:30 - Aditya SNU 3rd year: if tis a onetime thing na, gemini pro, if its for a longer term project na try looking at raw xml structure, figure out the font and load the tff files while converting it
+20/07/25, 21:31 - +91 98400 20605: This
+20/07/25, 21:31 - +91 99402 55513: will look into it. Thanks so much y'all
+20/07/25, 21:31 - Aditya SNU 3rd year: but anything, gemma should be really good at handling multimodal prompts
+20/07/25, 21:32 - Aditya SNU 3rd year: there would also be specialized finetuned gemma models, specifically for tamil, if doing locally
+20/07/25, 21:46 - +91 90800 03569: Encoding maathu bhai
+20/07/25, 21:46 - +91 90800 03569: Oh, he said that 😅
+20/07/25, 21:48 - +91 99402 55513: nvm guys its picture scanned, not typed
+20/07/25, 21:49 - +91 98400 20605: https://www.ocr2edit.com/pdf-to-word
+20/07/25, 21:51 - +91 98400 20605: You can just get the API of these guys I guess or try what @⁨Aditya SNU 3rd year⁩ suggested
+20/07/25, 21:51 - +91 95002 50165: There is tesseract for tamil ig
+20/07/25, 21:52 - +91 63822 30940: yeah
+20/07/25, 21:53 - +91 82963 71400: this has a dropdown where you can specify the source language as well <This message was edited>
+20/07/25, 21:55 - +91 96771 96957: Idt he needs OCR
+20/07/25, 21:55 - +91 96771 96957: He said he just wants to convert a type out PDF to word right
+20/07/25, 21:55 - +91 98400 20605: ..
+20/07/25, 21:56 - Aditya SNU 3rd year: picture scanned htough
+20/07/25, 21:56 - +91 96771 96957: Ok I expected he would atleast know what pdf he is working with 👌
+20/07/25, 21:58 - +91 99402 55513: I just got it😭
+
+They asked for help and i just said I'll look into it
+20/07/25, 22:04 - +91 98400 20605: Blud out here getting flamed for no reason 😂
+20/07/25, 22:06 - +91 99402 55513: Lesson learnt
+20/07/25, 22:07 - +91 98400 20605: GPT is better than People Homie atleast you’ll get flamed Privately ☺️ <This message was edited>
+20/07/25, 22:07 - Mahasvan SNU Tennis: Tesseract Sucks
+20/07/25, 22:08 - Mahasvan SNU Tennis: For anything that's not latin based
+20/07/25, 22:08 - +91 99405 37699: nah GPT and no glazing ??
+20/07/25, 22:08 - +91 99405 37699: wild
+20/07/25, 22:08 - +91 99402 55513: I aint helping any person in Singapore to learn tamil anymore
+20/07/25, 22:10 - +91 98400 20605: We just got an entire group deprived of Tamil People
+21/07/25, 19:16 - +91 63822 30940: Hey folks! Amazon’s ML Summer School is back — great chance to learn directly from their scientists. If you're eligible and even slightly curious, I’d genuinely recommend giving it a shot! Deadline’s July 31st.
+https://www.scaler.com/partnerships/amazon?utm_source=linkedin
+22/07/25, 06:36 - +91 94438 01821 was added
+22/07/25, 06:35 - ~ Rose Tejo added +91 94438 01821
+22/07/25, 11:36 - Vijayan Cybersecurity added ~ Sukhirthan A
+22/07/25, 12:20 - +91 90329 36299 added +91 73866 29967
+22/07/25, 13:11 - +91 96771 96957: @3rd Years, I hope you noticed the revised location for the motorq pre placement talk. It will happen at AB1 seminar hall <This message was edited>
+22/07/25, 13:14 - +91 99405 37699: It will*
+22/07/25, 13:25 - +91 96771 96957: Oh lol
+22/07/25, 13:25 - +91 96771 96957: IT WILL yes
+28/07/25, 15:33 - +91 73866 29967 added +91 93906 32673
+28/07/25, 15:34 - +91 73866 29967 added +91 93909 50466
+28/07/25, 15:34 - ~ Rex added +91 78069 48658
+28/07/25, 15:28 - +91 96771 96957: Hey all. It seems like only those  who are shortlisted will get the link to the online assesment. 
+
+The links are not sent out yet, need not worry. It will be sent out in the next few minutes
+28/07/25, 15:32 - +91 96771 96957: Update: TEST WILL HAPPEN TODAY. 
+
+Links will be sent out at 4pm.
+
+I understand this sucks because you will have to miss the bus without context on wether or not you are shortlisted
+
+But we tried our best to get the list. It seems like sourcing the list right now would take longer than 4pm <This message was edited>
+28/07/25, 15:40 - Aditya SNU 3rd year: This message was deleted
+28/07/25, 15:40 - Aditya SNU 3rd year: First list
+28/07/25, 15:42 - Aditya SNU 3rd year: 5-10 more students will be added soon
+28/07/25, 15:46 - Aditya SNU 3rd year: <Media omitted>
+28/07/25, 15:46 - Aditya SNU 3rd year: Updated second list
+28/07/25, 15:47 - Aditya SNU 3rd year: 10 more students have been added in
+28/07/25, 16:28 - +91 96771 96957: People who are on the SSN list, and didn't get the link, please dm me
+28/07/25, 16:28 - +91 96771 96957: <Media omitted>
+28/07/25, 16:29 - +91 96771 96957: This is the SSN list
+28/07/25, 16:38 - +91 96771 96957: Harini.A
+Katherine Olivia R
+Supritha Kamalanathan
+Hariesh R
+PAVITHRA RAJINDRA
+Ajay Varsan S
+K Krish Sundaresh
+Nandhana A M
+Amrith Sebastin
+Sanjana S
+Ankith V
+Sri Varshini S
+Jayadithya G
+Anjana Nanditha Sahi B
+REX JOSON DEVA.R
+Pranaav A
+Jai Surrya J
+S Hari Priya
+U Pranov Shanker
+Vikranth V
+28/07/25, 16:40 - +91 96771 96957: Whoever is in this list, and either
+
+1. Left home because you didn't notice your name in SSN list
+2. Didn't get link at all
+
+Please dm me asap
+28/07/25, 20:46 - +91 96771 96957: I heard that there has been information that has circulated that only people who were on the list, but didn't attend the test today, will be able to attend it at 830am tomorrow.
+
+This is false 
+
+Only people affected in the below criteria will be allowed to attend:
+1. Shortlist issues: intermixing between SSN and snu lists
+2. Platform issues: name was on the list, but didn't get mail
+3. Anticheat issues: wrongly blocked out by anticheat false positives
+4. Delayed resolutions: those who got above issues resolved very late and didn't have ample time to take the test properly.
+
+There will be no other case where retaking in the morning tomorrow will be permitted.
+28/07/25, 21:04 - ~ Prashanth added ~ Gokul Nishandh
+29/07/25, 09:40 - You added Madhu Shraya
+12/08/25, 19:31 - +91 90800 03569: https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2026
+12/08/25, 19:49 - +91 96771 96957: This message was deleted
+12/08/25, 19:49 - +91 96771 96957: This message was deleted
+12/08/25, 19:50 - +91 98400 20605: This message was deleted
+16/08/25, 07:09 - +91 93848 09005 changed to +1 (213) 796-2048
+16/08/25, 20:09 - +91 99400 89938 changed to +1 (814) 631-4985
+20/08/25, 11:21 - +91 93607 89593 joined using this group's invite link
+20/08/25, 11:21 - +91 70109 68443 joined using this group's invite link
+20/08/25, 11:21 - +91 97053 45033 joined using this group's invite link
+20/08/25, 11:21 - +91 94440 41895 joined using this group's invite link
+20/08/25, 11:21 - +91 91502 28224 joined using this group's invite link
+20/08/25, 11:21 - +91 94873 13764 joined using this group's invite link
+20/08/25, 11:21 - +91 98409 07684 joined using this group's invite link
+20/08/25, 11:21 - +91 76808 10862 joined using this group's invite link
+20/08/25, 11:21 - +91 89395 86222 joined using this group's invite link
+20/08/25, 11:21 - +91 96863 21885 joined using this group's invite link
+20/08/25, 11:21 - +91 78239 49349 joined using this group's invite link
+20/08/25, 11:21 - +91 89396 81207 joined using this group's invite link
+20/08/25, 11:21 - +91 63826 38173 joined using this group's invite link
+20/08/25, 11:21 - +91 63842 08202 joined using this group's invite link
+20/08/25, 11:21 - +91 97891 32842 joined using this group's invite link
+20/08/25, 11:21 - +91 99514 75555 joined using this group's invite link
+20/08/25, 11:21 - +91 93429 25025 joined using this group's invite link
+20/08/25, 11:21 - +91 99625 70036 joined using this group's invite link
+20/08/25, 11:21 - +91 89256 43856 joined using this group's invite link
+20/08/25, 11:21 - +91 72009 44371 joined using this group's invite link
+20/08/25, 11:21 - +91 89781 81793 joined using this group's invite link
+20/08/25, 11:21 - +91 91505 57249 joined using this group's invite link
+20/08/25, 11:21 - +91 91502 17415 joined using this group's invite link
+20/08/25, 11:21 - +91 70103 58974 joined using this group's invite link
+20/08/25, 11:21 - +91 90438 11247 joined using this group's invite link
+20/08/25, 11:21 - +91 84380 21577 joined using this group's invite link
+20/08/25, 11:21 - +91 86100 81770 joined using this group's invite link
+20/08/25, 11:21 - +91 86102 49257 joined using this group's invite link
+20/08/25, 11:21 - +91 95001 07028 joined using this group's invite link
+20/08/25, 11:21 - +91 88254 14635 joined using this group's invite link
+20/08/25, 11:21 - +91 91686 87830 joined using this group's invite link
+20/08/25, 11:21 - +91 63822 23260 joined using this group's invite link
+20/08/25, 11:21 - +91 95977 74031 joined using this group's invite link
+20/08/25, 11:21 - +91 90433 38684 joined using this group's invite link
+20/08/25, 11:21 - +91 94903 63762 joined using this group's invite link
+20/08/25, 11:21 - +91 87781 97453 joined using this group's invite link
+20/08/25, 11:21 - +91 73389 94101 joined using this group's invite link
+20/08/25, 11:21 - +91 93601 21794 joined using this group's invite link
+20/08/25, 11:21 - +91 99442 18184 joined using this group's invite link
+20/08/25, 11:21 - +91 95005 41213 joined using this group's invite link
+20/08/25, 11:21 - +91 98944 03884 joined using this group's invite link
+20/08/25, 11:21 - +91 63858 92796 joined using this group's invite link
+20/08/25, 11:21 - +91 98849 10307 joined using this group's invite link
+20/08/25, 11:21 - +91 63794 83810 joined using this group's invite link
+20/08/25, 11:21 - +91 95151 01943 joined using this group's invite link
+20/08/25, 11:21 - +91 91509 29528 joined using this group's invite link
+20/08/25, 11:21 - +91 88257 36183 joined using this group's invite link
+20/08/25, 11:21 - +91 95008 60212 joined using this group's invite link
+20/08/25, 11:21 - +91 63807 09415 joined using this group's invite link
+20/08/25, 11:21 - +91 94949 82669 joined using this group's invite link
+20/08/25, 11:22 - +91 91508 99545 joined using this group's invite link
+20/08/25, 11:22 - +91 73058 60485 joined using this group's invite link
+20/08/25, 11:22 - +91 87902 58855 joined using this group's invite link
+20/08/25, 11:22 - Leela Goutham joined using this group's invite link
+20/08/25, 11:22 - +91 99401 50458 joined using this group's invite link
+20/08/25, 11:22 - +91 75581 26482 joined using this group's invite link
+20/08/25, 11:22 - +91 95509 69979 joined using this group's invite link
+20/08/25, 11:22 - +91 86861 00400 joined using this group's invite link
+20/08/25, 11:22 - +91 89781 81793: Print("Hello Guys")
+20/08/25, 11:22 - +91 87929 38203 joined using this group's invite link
+20/08/25, 11:22 - +91 94881 25436 joined using this group's invite link
+20/08/25, 11:22 - +91 86102 79974 joined using this group's invite link
+20/08/25, 11:22 - +91 95664 72907 joined using this group's invite link
+20/08/25, 11:22 - +91 72009 44371 added +91 95142 64945
+20/08/25, 11:22 - +91 98402 17302 joined using this group's invite link
+20/08/25, 11:22 - +91 91505 57249 added +91 99402 16698
+20/08/25, 11:22 - ~ Sharon added ~ Ananyaa
+20/08/25, 11:23 - +91 99018 30476 joined using this group's invite link
+20/08/25, 11:24 - +91 75218 23937 joined using this group's invite link
+20/08/25, 11:24 - +91 80195 51704 joined using this group's invite link
+20/08/25, 11:28 - +91 99400 44289 joined using this group's invite link
+20/08/25, 11:32 - +91 99402 46986 joined using this group's invite link
+20/08/25, 11:37 - +91 90257 50905 joined using this group's invite link
+20/08/25, 11:38 - +91 81225 02754 joined using this group's invite link
+20/08/25, 11:40 - +91 73050 49555 joined using this group's invite link
+20/08/25, 11:41 - +91 75500 33654 joined using this group's invite link
+20/08/25, 11:41 - +91 85258 62033 joined using this group's invite link
+20/08/25, 11:42 - +91 73393 48084 joined using this group's invite link
+20/08/25, 11:44 - +91 90252 03464 joined using this group's invite link
+20/08/25, 11:47 - +91 93846 28857 joined using this group's invite link
+20/08/25, 11:49 - +91 82880 50607 joined using this group's invite link
+20/08/25, 11:49 - +91 79956 30392 joined using this group's invite link
+20/08/25, 11:49 - +91 99402 96038 joined using this group's invite link
+20/08/25, 11:50 - +91 90258 29878 joined using this group's invite link
+20/08/25, 11:55 - +91 73055 62764 was added
+20/08/25, 11:55 - +91 73055 62764 joined using this group's invite link
+20/08/25, 11:56 - +91 90801 90661 joined using this group's invite link
+20/08/25, 11:56 - +91 83416 66907 joined using this group's invite link
+20/08/25, 11:56 - +91 97861 10663 joined using this group's invite link
+20/08/25, 11:57 - +91 90433 18244 joined using this group's invite link
+20/08/25, 11:57 - +91 95005 65862 joined using this group's invite link
+20/08/25, 11:58 - +91 88070 73959 joined using this group's invite link
+20/08/25, 12:03 - +91 95002 34403 joined using this group's invite link
+20/08/25, 12:19 - +91 99891 84477 joined using this group's invite link
+20/08/25, 12:28 - +91 93846 95553 was added
+20/08/25, 12:28 - +91 93846 95553 joined using this group's invite link
+20/08/25, 12:30 - +91 95386 55307: 
+20/08/25, 12:32 - +91 99401 34797: 
+20/08/25, 12:33 - +91 77080 14490 joined using this group's invite link
+20/08/25, 12:33 - +91 98410 61608 joined using this group's invite link
+20/08/25, 12:33 - +91 99401 34797: 
+20/08/25, 12:33 - +91 88383 45623 joined using this group's invite link
+20/08/25, 12:33 - +91 99401 34797: 
+20/08/25, 12:33 - +91 99401 34797: 
+20/08/25, 12:34 - +91 95386 55307: 
+20/08/25, 12:34 - +91 76808 10862: No
+20/08/25, 12:38 - +91 96771 96957: We will properly introduce ICPC in the orientation. It wouldn't be helpful to just send links out of context @Alumini :)
+20/08/25, 12:40 - +91 96002 31930 added +91 90806 27005
+20/08/25, 12:41 - +91 88257 38175 joined using this group's invite link
+20/08/25, 13:09 - +91 90806 53945 joined using this group's invite link
+20/08/25, 13:41 - +91 98943 15495 joined using this group's invite link
+20/08/25, 15:11 - +91 89255 13378 joined using this group's invite link
+20/08/25, 16:09 - +91 97908 59555 joined using this group's invite link
+20/08/25, 16:25 - +91 88704 91670 joined using this group's invite link
+20/08/25, 16:28 - +91 79047 51627 joined using this group's invite link
+20/08/25, 16:28 - +91 94873 00028 joined using this group's invite link
+20/08/25, 16:36 - +91 74489 52082 joined using this group's invite link
+20/08/25, 16:37 - +91 97904 64775 joined using this group's invite link
+20/08/25, 16:44 - +91 73392 52409 joined using this group's invite link
+20/08/25, 16:51 - +91 99442 33224 joined using this group's invite link
+20/08/25, 16:57 - +91 75488 02927 joined using this group's invite link
+20/08/25, 16:58 - +91 63800 09750 joined using this group's invite link
+20/08/25, 16:59 - +91 63819 15164 joined using this group's invite link
+20/08/25, 17:10 - +91 93446 41455 joined using this group's invite link
+20/08/25, 17:33 - +91 93615 96319 joined using this group's invite link
+20/08/25, 17:34 - +91 80725 02362 joined using this group's invite link
+20/08/25, 17:41 - +91 97035 52238 joined using this group's invite link
+20/08/25, 17:52 - +91 97911 66036 joined using this group's invite link
+20/08/25, 17:54 - +91 93440 80219 joined using this group's invite link
+20/08/25, 17:55 - +91 88388 05293 joined using this group's invite link
+20/08/25, 18:02 - +91 76048 97692 joined using this group's invite link
+20/08/25, 18:12 - +91 91503 66365 joined using this group's invite link
+20/08/25, 18:37 - +91 81481 80265 joined using this group's invite link
+20/08/25, 18:57 - +91 93630 70050 joined using this group's invite link
+20/08/25, 19:13 - +91 88384 14811 joined using this group's invite link
+20/08/25, 19:20 - +91 90803 64232 joined using this group's invite link
+20/08/25, 19:30 - +91 94441 57177 joined using this group's invite link
+20/08/25, 19:34 - +91 80566 78863 joined using this group's invite link
+20/08/25, 20:29 - +91 99402 97114 joined using this group's invite link
+20/08/25, 21:53 - +91 88385 14294 joined using this group's invite link
+20/08/25, 22:10 - +91 91001 18869 joined using this group's invite link
+20/08/25, 22:39 - +91 79812 57034 joined using this group's invite link
+20/08/25, 23:18 - +91 91508 73896 joined using this group's invite link
+20/08/25, 23:39 - +91 63858 92796 added +91 97910 58387
+21/08/25, 05:55 - +91 99620 11588 joined using this group's invite link
+21/08/25, 06:11 - +91 98408 13524 was added
+21/08/25, 06:11 - +91 98408 13524 joined using this group's invite link
+21/08/25, 08:22 - +91 82486 35966 was added
+21/08/25, 08:21 - +91 82486 35966 joined using this group's invite link
+21/08/25, 11:06 - +91 95009 21628 was added
+21/08/25, 10:52 - +91 95009 21628 joined using this group's invite link
+21/08/25, 12:18 - +91 83090 47179 joined using this group's invite link
+21/08/25, 13:32 - +91 91508 51105 joined using this group's invite link
+21/08/25, 15:08 - +91 90806 53945 added +91 88385 70517
+21/08/25, 16:08 - +91 94999 10344 joined using this group's invite link
+21/08/25, 16:24 - +91 93633 38599 joined using this group's invite link
+21/08/25, 16:39 - +91 97907 33791 joined using this group's invite link
+21/08/25, 18:28 - +91 73388 78319 joined using this group's invite link
+21/08/25, 20:01 - ~ Anish Srinivasan added +91 93913 22308
+21/08/25, 23:22 - +91 95426 05479 joined using this group's invite link
+21/08/25, 23:49 - +91 79049 19627 joined using this group's invite link
+22/08/25, 07:35 - +91 88704 95027 joined using this group's invite link
+22/08/25, 11:31 - +91 95664 72907 added +91 87789 44994
+22/08/25, 17:03 - +91 73050 68698 joined using this group's invite link
+22/08/25, 20:33 - +91 79048 20650 was added
+22/08/25, 20:33 - +91 79048 20650 joined using this group's invite link
+22/08/25, 21:03 - +91 72003 41765 joined using this group's invite link
+23/08/25, 09:29 - +91 76759 76059 joined using this group's invite link
+23/08/25, 09:31 - +91 87904 75330 joined using this group's invite link
+23/08/25, 09:32 - +91 7397 522 369 joined using this group's invite link
+23/08/25, 12:29 - ~ Annamalai was added
+23/08/25, 12:29 - +91 63668 08323 joined using this group's invite link
+23/08/25, 13:02 - +91 86670 30132 joined using this group's invite link
+23/08/25, 19:19 - +91 99446 43531 joined using this group's invite link
+23/08/25, 19:20 - ~ Jacinth was added
+23/08/25, 19:20 - +91 96771 46516 joined using this group's invite link
+23/08/25, 19:20 - +91 82202 14337 joined using this group's invite link
+23/08/25, 19:21 - +91 63822 30940: Hey folks 👋
+First-years, this one’s for you — Coding Club Orientation 2025 is here! 🚀
+
+📅 25th Aug | 🕧 12:30–2:15 PM
+📍 Seminar Hall, AB3
+
+Come find out what the club actually does (beyond “just coding”), meet the teams, and get a peek at the cool stuff planned this year. 🔥
+
+Stay connected:
+📸 Instagram: https://www.instagram.com/snuc_cc?igsh=OWp4M2gwZHN4NXgz
+💬 WhatsApp Group: https://chat.whatsapp.com/KOG99tvkzz1FZx5XjIaBtf
+
+Don’t just hear about it later — come through 😉
+23/08/25, 19:22 - +91 89781 81793: What about the classes after 12:50? <This message was edited>
+23/08/25, 19:23 - +91 94886 76269 was added
+23/08/25, 19:23 - +91 94886 76269 joined using this group's invite link
+23/08/25, 19:23 - +91 93926 74664 joined using this group's invite link
+23/08/25, 19:23 - +91 73389 78082: bunk it
+23/08/25, 19:25 - +91 82486 24539: Dei don’t spoil juniors ra
+23/08/25, 19:25 - +91 89781 81793: 😂 already spoiled
+23/08/25, 19:25 - +91 88257 36183: Ok bro
+23/08/25, 19:26 - +91 91508 51105: 👍👍
+23/08/25, 19:27 - +91 75500 54426 joined using this group's invite link
+23/08/25, 19:44 - ~ Lakshmi Karthik added +91 73961 76844
+23/08/25, 19:47 - ~ Arvindh was added
+23/08/25, 19:46 - +91 63804 65157 joined using this group's invite link
+23/08/25, 19:47 - +91 75218 23937: We have classes
+23/08/25, 19:47 - +91 75218 23937: And our English mam
+23/08/25, 19:47 - +91 75218 23937: Very strict
+23/08/25, 19:48 - +91 98846 66463: Who?
+23/08/25, 19:48 - +91 75218 23937: Write mail and all that formalities she makes people do
+23/08/25, 19:48 - +91 75218 23937: For this all
+23/08/25, 19:48 - +91 75218 23937: 🐒
+23/08/25, 19:48 - +91 75501 05405: Who
+23/08/25, 19:48 - +91 75501 05405: Just bunk
+23/08/25, 19:48 - +91 90433 38684: Bagtchi
+23/08/25, 19:48 - +91 79044 17119: Bunk all classes that day and tell her you were on leave
+23/08/25, 19:49 - Aditya SNU 3rd year: The classes should be cancelled from our end - we'll double check and update you on that
+23/08/25, 19:49 - +91 90433 38684: Nice joke
+23/08/25, 19:49 - +91 99806 96238: Think of it as a "strategic rescheduling of time for enhanced productivity"
+23/08/25, 19:49 - +91 75501 05405: This message was deleted
+23/08/25, 19:49 - +91 98846 66463: I feel sorry for you all
+23/08/25, 19:49 - +91 79044 17119: My entire first year was a joke? 😔
+23/08/25, 19:49 - +91 90433 38684: Fr
+23/08/25, 19:49 - +91 95002 34403: 🙏 <This message was edited>
+23/08/25, 19:49 - +91 90435 87709: just to be safe make sure you don't bunk classes unnecessarily ,but do attend clg events
+it'll be fun!
+23/08/25, 19:50 - +91 90433 38684: Okay 👍
+23/08/25, 19:57 - +91 99401 34797: Rule of thumb
+
+If you're not doing something more useful outside class than the lecture itself, better to sit through the lecture <This message was edited>
+23/08/25, 20:08 - +91 63807 36734 joined using this group's invite link
+23/08/25, 20:15 - +91 96771 96957: Any time a coding club event clashes with classes, we will handle it. You will never have to bunk or miss classes. <This message was edited>
+23/08/25, 20:43 - +91 87545 97835 joined using this group's invite link
+23/08/25, 20:43 - +91 80722 79719 joined using this group's invite link
+23/08/25, 20:46 - +91 90800 03569: This message was deleted
+23/08/25, 20:46 - +91 93429 03509 joined using this group's invite link
+23/08/25, 20:50 - +91 63808 01436 joined using this group's invite link
+23/08/25, 20:54 - ~ Yagna Sanjeev was added
+23/08/25, 20:53 - +91 94916 12208 joined using this group's invite link
+23/08/25, 21:00 - +91 89406 43551 joined using this group's invite link
+23/08/25, 21:12 - +91 70108 92325 joined using this group's invite link
+23/08/25, 22:18 - +91 88078 70085 joined using this group's invite link
+24/08/25, 07:32 - +91 93618 02400 was added
+24/08/25, 07:32 - +91 93618 02400 joined using this group's invite link
+24/08/25, 07:57 - +91 94451 85805 joined using this group's invite link
+24/08/25, 08:52 - +91 80732 63252 was added
+24/08/25, 08:51 - +91 80732 63252 joined using this group's invite link
+24/08/25, 09:20 - +91 63833 15106 joined using this group's invite link
+24/08/25, 09:21 - +91 81222 09449 joined using this group's invite link
+24/08/25, 09:22 - +91 81227 04406 joined using this group's invite link
+24/08/25, 09:28 - +91 79813 03014 joined using this group's invite link
+24/08/25, 09:30 - +91 73058 88192 joined using this group's invite link
+24/08/25, 10:01 - +91 73050 79222 joined using this group's invite link
+24/08/25, 10:27 - +91 73373 98585 was added
+24/08/25, 10:26 - +91 70325 12014 joined using this group's invite link
+24/08/25, 10:27 - ~ Pranava added +91 73373 98585
+24/08/25, 10:43 - +91 91769 70017 joined using this group's invite link
+24/08/25, 10:58 - ~ S. R. Suresh was added
+24/08/25, 10:57 - +91 97903 19383 joined using this group's invite link
+24/08/25, 11:17 - +91 82204 96968 joined using this group's invite link
+24/08/25, 11:55 - +91 73057 63705 joined using this group's invite link
+24/08/25, 12:01 - +91 99406 78918 joined using this group's invite link
+24/08/25, 12:05 - +91 77021 99566 joined using this group's invite link
+24/08/25, 12:07 - +91 98494 98122 joined using this group's invite link
+24/08/25, 14:05 - +91 97040 36239 joined using this group's invite link
+24/08/25, 15:21 - +91 73050 34876 was added
+24/08/25, 15:20 - +91 73050 34876 joined using this group's invite link
+24/08/25, 15:50 - +91 72002 89907 was added
+24/08/25, 15:50 - +91 72002 89907 joined using this group's invite link
+24/08/25, 16:05 - +91 79041 45744 joined using this group's invite link
+24/08/25, 16:32 - +91 94455 69833 joined using this group's invite link
+24/08/25, 16:50 - +91 93637 05450 joined using this group's invite link
+24/08/25, 19:24 - +91 96269 41124 was added
+24/08/25, 19:24 - +91 96269 41124 joined using this group's invite link
+24/08/25, 20:05 - +91 86108 48472 joined using this group's invite link
+24/08/25, 20:10 - +91 99405 40434 was added
+24/08/25, 20:10 - +91 99405 40434 joined using this group's invite link
+24/08/25, 20:32 - +91 91212 79977 joined using this group's invite link
+25/08/25, 05:08 - +91 94930 81169 joined using this group's invite link
+25/08/25, 05:59 - +91 97890 74730 was added
+25/08/25, 05:59 - +91 97890 74730 joined using this group's invite link
+25/08/25, 07:47 - +91 79930 18822 joined using this group's invite link
+25/08/25, 08:01 - +91 98942 55299 joined using this group's invite link
+25/08/25, 08:01 - +91 98942 55299 added +91 93619 64585
+25/08/25, 08:03 - +91 76048 97692 added +91 84380 69805
+25/08/25, 08:14 - +91 99403 48195 joined using this group's invite link
+25/08/25, 08:23 - +91 99406 44288 joined using this group's invite link
+25/08/25, 09:07 - +91 95661 10762 joined using this group's invite link
+25/08/25, 10:12 - +91 93637 42339 joined using this group's invite link
+25/08/25, 11:53 - +91 87545 59864 joined using this group's invite link
+25/08/25, 12:43 - +91 81898 61620 was added
+25/08/25, 12:24 - +91 81898 61620 joined using this group's invite link
+25/08/25, 12:32 - +91 93617 05450 joined using this group's invite link
+25/08/25, 12:41 - +91 62819 76228 joined using this group's invite link
+25/08/25, 12:43 - +91 62819 76228 was added
+25/08/25, 12:48 - +91 95005 65862 added ~ Harshadha Ponraman
+25/08/25, 12:48 - +91 79817 10855 joined using this group's invite link
+25/08/25, 13:17 - +91 93846 91200 joined using this group's invite link
+25/08/25, 13:49 - ~ Tejeshwin added +91 81229 99128
+25/08/25, 13:51 - +91 63812 86775 joined using this group's invite link
+25/08/25, 14:23 - +91 89250 49359 joined using this group's invite link
+25/08/25, 14:23 - +91 86675 14465 joined using this group's invite link
+25/08/25, 15:52 - +91 98407 39745 joined using this group's invite link
+25/08/25, 15:53 - +91 98859 57599 joined using this group's invite link
+25/08/25, 16:00 - +91 91766 38535 was added
+25/08/25, 16:00 - +91 91766 38535 joined using this group's invite link
+25/08/25, 16:23 - +91 88704 91670: Hello seniors, had good session today. Happy to participate in this club..! 🥳😃
+
+Can u pls send the details and PPT which was used today for the session ?
+25/08/25, 16:35 - +91 63740 83712 joined using this group's invite link
+25/08/25, 18:22 - +91 96771 96957: Surely da, we are compiling the deets, will share by tonight
+25/08/25, 18:51 - +91 95003 22609: https://nedbatchelder.com/text/kindling.html
+
+^ for those who asked for project ideas
+25/08/25, 18:53 - +91 95003 22609: Has everything from downright simple stuff to do if you have 0 programming experience so far and to projects that'll take a good few weeks-couple months to finish if you do it full time <This message was edited>
+26/08/25, 07:06 - +91 84380 60095 was added
+26/08/25, 07:06 - +91 98402 17302 added +91 84380 60095
+26/08/25, 09:08 - +91 7397 425 965 joined using this group's invite link
+27/08/25, 15:38 - +91 89251 25354 joined using this group's invite link
+27/08/25, 15:39 - +91 89251 25354 added +91 82708 22176
+27/08/25, 15:40 - +91 82708 22176 added +91 63747 75956 and +91 97511 54096
+27/08/25, 16:47 - +91 73057 83043 joined using this group's invite link
+27/08/25, 18:20 - +91 82203 24365 joined using this group's invite link
+28/08/25, 12:28 - +91 76959 85261 joined using this group's invite link
+29/08/25, 04:08 - +91 73581 12575 changed to +1 (781) 866-5416
+29/08/25, 09:15 - +91 70325 44877 was added
+29/08/25, 09:12 - +91 73961 76844 added +91 74160 06736
+29/08/25, 09:12 - +91 73961 76844 added +91 70325 44877
+29/08/25, 14:52 - +91 97911 66036: hey earlier today when someone came to iot-a to announce smth for a second time, sir didn't let y'all continue. 
+
+what were you guys gonna say 😅
+29/08/25, 14:53 - +91 81221 52806: It was just a head count for today morning's that announcement I made about the intro to CTF thing. <This message was edited>
+29/08/25, 14:53 - +91 97911 66036: gotcha
+29/08/25, 14:54 - +91 97911 66036: is there any limit as to how many ppl attend
+29/08/25, 14:54 - +91 81221 52806: Come one come all
+29/08/25, 14:54 - +91 97911 66036: 🫡
+29/08/25, 14:54 - +91 97911 66036: thank you
+29/08/25, 14:56 - +91 93846 91200: what did y'all say rlly?? Some of us were out for the squid game
+29/08/25, 14:56 - +91 81481 80265: Ah right!
+29/08/25, 15:53 - ~ Joshua Bharathi changed the group name from "SNUCCC | Official Discussion " to "SNUCCC Discussions"
+29/08/25, 17:29 - +91 93846 91200: no more officiality 👌
+29/08/25, 17:30 - +91 98400 20605: <Media omitted>
+29/08/25, 17:30 - +91 98400 20605: This message was deleted
+29/08/25, 17:34 - +91 89396 81207: <Media omitted>
+29/08/25, 17:34 - +91 97911 66036: <Media omitted>
+29/08/25, 18:12 - +91 98494 98122 added +91 85558 66271
+29/08/25, 21:20 - +91 86104 61271 joined using this group's invite link
+31/08/25, 11:51 - +91 63822 30940: Hey folks! Amazon’s Future Engineer Scholarship is live — super cool opportunity; ₹2L support, free laptop, training, and even a shot at an Amazon internship 👀
+
+Deadline’s coming up, so definitely check it out if you’re eligible:
+https://www.amazonfutureengineer.in/scholarship
+31/08/25, 12:02 - +91 99406 44288: Is this legit? Can any senior or vertical heads   clarify this
+31/08/25, 12:03 - +91 96771 96957: Jayashree is our ML head, if she sends something you can be confident its legit 😛
+31/08/25, 12:03 - +91 63822 30940: maja man nee
+31/08/25, 12:04 - +91 73050 49555: it says that only females with a family annual income of less than 3 lakhs can apply
+31/08/25, 12:04 - +91 96863 21885: <Media omitted>
+31/08/25, 12:04 - +91 96863 21885: If you can afford SNU you prolly don’t qualify thou
+31/08/25, 12:04 - +91 75500 33654: True😂
+31/08/25, 12:04 - +91 96771 96957: There are actually several i know from SNU who quality for this. and they are here on scholarship
+31/08/25, 12:05 - +91 75500 33654: In most cases
+31/08/25, 12:05 - +91 63822 30940: yeah
+31/08/25, 12:05 - +91 75500 33654: Ohh really
+31/08/25, 12:05 - +91 75500 33654: Nice
+31/08/25, 12:05 - +91 63822 23260: <Media omitted>
+31/08/25, 12:05 - +91 96863 21885: Useful for them then, as long as there’s no clause stating they can’t have multiple scholarships
+31/08/25, 12:06 - +91 99406 44288: Yeah since in cybersecurity our mam gave us case studies of something similar na and I am still not comfortable with the names 😞
+31/08/25, 12:06 - +91 63822 23260: <Media omitted>
+31/08/25, 12:06 - +91 96771 96957: ah fair fair
+31/08/25, 12:07 - +91 75500 33654: <Media omitted>
+31/08/25, 12:08 - +91 75500 33654: "have taken admission through a state or national level entrance exam" uhh
+31/08/25, 12:08 - +91 99406 44288: Yeah I saw that and was wondering when I entered and i was going through these so i asked you guys
+31/08/25, 12:09 - +91 75581 26482: Means snu students can't take part?
+31/08/25, 12:10 - +91 75500 33654: I guess so🫠
+31/08/25, 12:10 - +91 75581 26482: Ohh
+31/08/25, 12:10 - +91 75500 33654: Or any pvt university like vit anoll
+31/08/25, 12:11 - +91 96771 96957: @⁨~Jayashre⁩ don't we have somebody who has availed this from SNU?
+31/08/25, 12:11 - +91 63822 23260: Is there anything for boys?
+31/08/25, 12:12 - +91 70103 58974: @⁨~Joshua Bharathi⁩ is it possible to update the numbers of heads of the verticals so that in case if theres any queries we can dm them?
+31/08/25, 12:12 - +91 99405 37699: unemployment and poverty 😔
+31/08/25, 12:12 - +91 99406 44288: Fact
+31/08/25, 12:13 - +91 99191 27477 added +91 93910 86179
+31/08/25, 19:55 - +91 63855 56935 joined using this group's invite link
+31/08/25, 20:10 - +91 93429 25025: Should we keep our laptops handy for tmrws ctf session??
+31/08/25, 20:10 - +91 75218 23937: Ctf ?
+31/08/25, 20:11 - Vijayan Cybersecurity: yes
+31/08/25, 20:11 - +91 93429 25025: Ok tysm
+31/08/25, 20:11 - +91 99806 96238: We'll be having a hands-on session tomorrow, so yes.
+31/08/25, 20:11 - +91 75399 73408: I don't have. Alaptop
+31/08/25, 20:11 - +91 93429 25025: Ok tyyy
+31/08/25, 20:12 - +91 75399 73408: But I don't have one
+31/08/25, 20:13 - +91 94873 13764: My current laptop is shitty af...I can't rly bring it to clg n use. Will that be a problem? 🥲
+31/08/25, 20:16 - +91 99806 96238: <Media omitted>
+31/08/25, 20:16 - +91 99806 96238: 🚩 Intro to CTF – Coding Club 🚩
+Hey everyone! 👋
+Join us for an exciting Intro to CTF (Capture the Flag) event hosted by the Coding Club.
+🗓️ Date: 01–September-2025
+⏰ Time: 2:00 PM – 5:30 PM
+📍 Venue: AB-1 Seminar Hall
+
+💻 Learn:
+Basic Linux Commands
+How to approach CTFs
+Live solving + Q&A
+
+🎯 Compete in our miniEditaCTF (Web, Rev, Crypto, Forensics & more).
+
+Resources: https://editactfwriteups.vercel.app/
+
+Don’t miss out—see you there! 🚀
+31/08/25, 20:18 - +91 99806 96238: Shouldn't be an issue, y'all will be forming teams anyway, so you can share with a friend.
+31/08/25, 20:33 - +91 94873 13764: Okkie... Thankss :D
+31/08/25, 20:54 - +91 95977 74031: Any particular softwares that need to be installed in our laptops for tmr's workshop?
+31/08/25, 20:56 - +91 72043 97677: maybe get a bootable version of a pentesting specialized operating system like kali/parrot. or atleast get a version of linux ready (maybe WSL)
+31/08/25, 20:56 - +91 72043 97677: but there's no hard requirements
+31/08/25, 20:56 - Vijayan Cybersecurity: WSL should be enough.
+31/08/25, 20:56 - +91 99806 96238: This, I'd personally recommend WSL, or Windows Subsystem for Linux.
+31/08/25, 20:58 - +91 95977 74031: Thanks
+31/08/25, 22:00 - +91 96183 18308 was added
+31/08/25, 21:59 - +91 96183 18308 joined using this group's invite link
+31/08/25, 22:02 - +91 95003 22609: For kali on WSL: see https://www.kali.org/docs/wsl/wsl-preparations/
+31/08/25, 22:03 - +91 99402 55513: WSL?
+31/08/25, 22:03 - +91 99402 55513: Ive had enuf trauma with wsl
+31/08/25, 22:03 - +91 95003 22609: what did bro run into
+31/08/25, 22:04 - +91 99402 55513: I wld say, dont use wsl unless you really know your shit
+31/08/25, 22:04 - Prajesh AI and DS: it's literally just clicking a few buttons-
+31/08/25, 22:04 - +91 99402 55513: Everything is fine until u have to uninstall it
+31/08/25, 22:04 - +91 95003 22609: microsoft ☕
+31/08/25, 22:04 - +91 99402 55513: 😭
+31/08/25, 22:05 - Prajesh AI and DS: just...uninstall? 😭 I've uninstalled it before, am I missing something?
+31/08/25, 22:05 - Aditya SNU 3rd year: Wsl peak though, legit peak engineering
+31/08/25, 22:05 - Vijayan Cybersecurity: can confirm
+31/08/25, 22:05 - Prajesh AI and DS: if only wsa received similar love 😔
+31/08/25, 22:05 - +91 99402 55513: No the thing is it got integrated with vs code for some reason and in first year i had no clue what was happening and was legit freaking out
+31/08/25, 22:06 - +91 99402 55513: Real but using wsl without knowing how to, is kinda hard
+31/08/25, 22:06 - +91 95003 22609: you just have to uninstall the wsl vscode extension
+31/08/25, 22:06 - Prajesh AI and DS: sir you had a project in the wsl directories then
+31/08/25, 22:06 - +91 95003 22609: unless you installed vsc within wsl or smth
+31/08/25, 22:06 - +91 99402 55513: I did da
+31/08/25, 22:06 - Aditya SNU 3rd year: Didn't... wsa get discontinued
+31/08/25, 22:06 - +91 99402 55513: Yes
+31/08/25, 22:06 - Prajesh AI and DS: yes 😔
+31/08/25, 22:08 - Prajesh AI and DS: Microsoft should've bit the bullet and begged google for google play integration
+31/08/25, 22:08 - Prajesh AI and DS: having amazon app store as the only way for normal consumers to install apps, plus the complexity of installing it as a regular user killed it mainly <This message was edited>
+31/08/25, 22:09 - +91 95003 22609: ~waydroid~
+31/08/25, 22:10 - +91 94440 41895: Wait at that point isn't it easier to use
+31/08/25, 22:10 - +91 94440 41895: Vms
+31/08/25, 22:10 - +91 94440 41895: Instead of struggling with windows
+31/08/25, 22:10 - +91 95003 22609: they _are_ vms
+31/08/25, 22:10 - +91 94440 41895: Oh
+31/08/25, 22:10 - +91 94440 41895: Alr
+31/08/25, 22:11 - +91 93612 41992: what you on about, wsl quite literally beginner shit
+31/08/25, 22:11 - +91 93612 41992: better than VMs if you don't have the memory or dual boot
+31/08/25, 22:12 - +91 94440 41895: Wait so if you use wsl can you install packages and all that normally?
+31/08/25, 22:12 - +91 94440 41895: Or is there extra steps
+31/08/25, 22:12 - +91 93612 41992: you just connected vsc to remote wsl 😭
+you open vsc on a local folder and it goes away :/
+31/08/25, 22:13 - +91 95003 22609: yeah?
+31/08/25, 22:13 - +91 95003 22609: and if you're wsl2 (which you most likely are) you can use linux gui apps too
+31/08/25, 22:13 - +91 94440 41895: Thanks
+31/08/25, 22:13 - +91 94440 41895: I'm not asking for me bro
+31/08/25, 22:13 - +91 94440 41895: I'm Linux user
+31/08/25, 22:13 - +91 99402 55513: It took me a month to figure that out in first year
+31/08/25, 22:13 - +91 94440 41895: Just chumma clarifying
+31/08/25, 22:14 - +91 93612 41992: could've asked any of the seniors know, you're friends with all the nerds 💀
+31/08/25, 22:14 - +91 99402 55513: One of those specific nerds forced me into installing wsl
+31/08/25, 22:15 - +91 95003 22609: 
+31/08/25, 22:15 - +91 75500 33654: Everyone: talking about wsl
+Meanwhile me who is happily chilling on mac os 😎
+31/08/25, 22:15 - +91 93612 41992: wsl with kali? arch? or even better, void?
+31/08/25, 22:15 - +91 94440 41895: Im
+31/08/25, 22:15 - +91 94440 41895: Vanilla arch
+31/08/25, 22:15 - +91 88257 36183: What distro?
+31/08/25, 22:15 - +91 94440 41895: This is not a flex bro
+31/08/25, 22:15 - +91 99402 55513: 30 gb ram?
+31/08/25, 22:16 - +91 88257 36183: You use arch btw? Damn
+31/08/25, 22:16 - +91 94440 41895: Yes
+31/08/25, 22:16 - +91 94440 41895: Its peak
+31/08/25, 22:16 - +91 94440 41895: My comp is so old
+31/08/25, 22:16 - +91 94440 41895: It can't handle fedora
+31/08/25, 22:16 - +91 70103 58974: i don't understand anything in linux
+31/08/25, 22:16 - +91 70103 58974: what do i do lmao
+31/08/25, 22:16 - +91 94440 41895: I was kinda forced to instalp
+31/08/25, 22:16 - +91 93612 41992: this man def knows what he's doing, therinju than install panni iruppan
+31/08/25, 22:16 - +91 88257 36183: Onakku vaazha thaguthiye illa da
+31/08/25, 22:16 - +91 95003 22609: you don't need to
+31/08/25, 22:16 - +91 88257 36183: I switch bw Kali and Parrot lmao
+31/08/25, 22:17 - +91 95003 22609: (we have a little intro to basic linux cmds tmrw too)
+31/08/25, 22:17 - +91 94440 41895: My crappy laptop doesn't have a battery and its hinge is broken. Its old asf
+31/08/25, 22:17 - +91 93612 41992: intro to Linux CC event varum 😂
+31/08/25, 22:17 - +91 88257 36183: It easy only
+31/08/25, 22:17 - +91 94440 41895: I needed the lightest thing
+31/08/25, 22:17 - +91 94440 41895: I could find
+31/08/25, 22:17 - +91 94440 41895: So arch it was
+31/08/25, 22:17 - +91 93612 41992: oh look, it's coming soon
+31/08/25, 22:17 - +91 75500 33654: Nice
+31/08/25, 22:17 - +91 98400 20605: Not the Lightest
+31/08/25, 22:17 - +91 95003 22609: I take it you don't know what nix is?
+31/08/25, 22:17 - +91 94440 41895: Wait fr?
+31/08/25, 22:18 - +91 94440 41895: I didnt know that?
+31/08/25, 22:18 - +91 98400 20605: Yes
+31/08/25, 22:18 - +91 94440 41895: What is it?
+31/08/25, 22:18 - +91 98400 20605: Trust me you don't want to know that <This message was edited>
+31/08/25, 22:18 - +91 94440 41895: Lmfao
+31/08/25, 22:18 - +91 94440 41895: Alr
+31/08/25, 22:18 - +91 95003 22609: could've been phrased better, but ok
+31/08/25, 22:18 - +91 63822 23260: Then what is the lightest
+31/08/25, 22:18 - +91 94440 41895: I deadass dong
+31/08/25, 22:18 - +91 94440 41895: I googled what is lightest
+31/08/25, 22:18 - Aditya SNU 3rd year: What the fuck
+31/08/25, 22:19 - +91 94440 41895: Arch was first resulg
+31/08/25, 22:19 - +91 94440 41895: Installed it
+31/08/25, 22:19 - Prajesh AI and DS: When did you upgrade lol
+31/08/25, 22:19 - Aditya SNU 3rd year: Bros running pmaos
+31/08/25, 22:19 - +91 95003 22609: objectively there isn't an answer
+31/08/25, 22:19 - +91 94440 41895: Don't*
+31/08/25, 22:19 - Aditya SNU 3rd year: Package manager as an OS
+31/08/25, 22:19 - +91 95003 22609: last week
+31/08/25, 22:19 - +91 95003 22609: I have been since feb
+31/08/25, 22:19 - +91 98400 20605: Nix is one of the best distros 🙏
+31/08/25, 22:20 - +91 98400 20605: and by Light which parameter are you referring to?
+31/08/25, 22:20 - +91 95003 22609: this tbh, light is pretty subjective
+31/08/25, 22:20 - +91 95003 22609: arch is just minimal ootb; and not the only distro out there that is minimal
+31/08/25, 22:20 - +91 94440 41895: Well by light I meant what didnt have as many background processes
+31/08/25, 22:20 - +91 98400 20605: Yeah but let's just assume he is referring to Memory Consumption when the system is Idle
+31/08/25, 22:21 - +91 94440 41895: That took up ram
+31/08/25, 22:21 - +91 95003 22609: heck it isn't even the most minimal if you wanna go by that metric
+31/08/25, 22:21 - +91 95003 22609: I ran debian with kde on a dabba from 2013 with 4 gigs of ddr3 <This message was edited>
+31/08/25, 22:21 - Prajesh AI and DS: For most people, light is something lighter than windows, and the safest option where everything works is ubuntu imo
+31/08/25, 22:21 - +91 98400 20605: Vanilla Debian is OP <This message was edited>
+31/08/25, 22:21 - +91 94440 41895: Cool
+31/08/25, 22:21 - Prajesh AI and DS: You'll also use it in your labs so there's that
+31/08/25, 22:21 - +91 94440 41895: Thats true lol
+31/08/25, 22:22 - +91 94440 41895: I still struggle when contacting dell customer support
+31/08/25, 22:22 - +91 94440 41895: Just coz Ubuntu is lot more well knkwn
+31/08/25, 22:22 - Mahasvan SNU Tennis: wsl —uninstall?
+31/08/25, 22:23 - +91 99402 55513: Thank you, it worked
+31/08/25, 22:23 - Mahasvan SNU Tennis: or unregister, i guess
+31/08/25, 22:23 - +91 99402 55513: Idk it was hard thats what i rmbr
+31/08/25, 22:24 - Mahasvan SNU Tennis: are you sure its not skill issue
+31/08/25, 22:24 - +91 99402 55513: It was😕
+31/08/25, 22:24 - Mahasvan SNU Tennis: lol, now you know better, use your new knowledge wisely 🫡
+31/08/25, 22:32 - +91 99401 34797: ~Official~ -> Discussions was all that was needed for 150+ messages in a day.
+
+@CCCore 🔥🤘
+31/08/25, 22:38 - ~ Akash M was added
+31/08/25, 22:38 - +91 94809 22196 joined using this group's invite link
+01/09/25, 08:15 - +91 96403 95961 joined using this group's invite link
+01/09/25, 09:30 - +91 95974 46044 added +91 90423 35924
+01/09/25, 10:01 - +91 90259 16124 was added
+01/09/25, 10:00 - +91 90259 16124 joined using this group's invite link
+01/09/25, 13:39 - +91 63836 58794: Guys the ctf event is gonna start. Come to AB1 seminar hall
+01/09/25, 13:55 - ~ Nethra Vijayabaskar added +91 74068 22200
+01/09/25, 13:56 - +91 74068 22200 added +91 63853 21231
+01/09/25, 14:06 - +91 63747 75956 added +91 88077 47597
+01/09/25, 14:20 - +91 63822 30940: <Media omitted>
+01/09/25, 16:12 - ~ Vaishnavi J added Sanjana MSB's Roommate

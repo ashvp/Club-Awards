@@ -1,0 +1,560 @@
+Received: from PN3PPF6A2972BB0.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ MA1PR01MB3753.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Mon, 25 Aug 2025 17:36:47
+ +0000
+Received: from MAUPR01MB11021.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:170::8)
+ by PN3PPF6A2972BB0.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c04:1::2e) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9052.21; Mon, 25 Aug
+ 2025 17:36:43 +0000
+Received: from PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:c01:246::11) by MAUPR01MB11021.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:a01:170::8) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9052.19; Mon, 25 Aug
+ 2025 17:36:37 +0000
+Received: from PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::1b00:9624:1135:939]) by PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::1b00:9624:1135:939%4]) with mapi id 15.20.9052.019; Mon, 25 Aug 2025
+ 17:36:37 +0000
+From: rhythm <rhythm@SNUCHENNAI.EDU.IN>
+To: ug-2022 <ug-2022@snuchennai.edu.in>, ug-2023 <ug-2023@snuchennai.edu.in>,
+	ug-2024 <ug-2024@snuchennai.edu.in>, ug-2025 <ug-2025@snuchennai.edu.in>,
+	mtech-ai-ds-2024 <mtech-ai-ds-2024@snuchennai.edu.in>, mtech-ai-ds-2025
+	<mtech-ai-ds-2025@snuchennai.edu.in>
+Subject: Live Project in Business Analytics
+Thread-Topic: Live Project in Business Analytics
+Thread-Index: AQHcFeYpw60K+OO780GaPVxoPrPWMg==
+Date: Mon, 25 Aug 2025 17:36:37 +0000
+Message-ID:
+ <PNZPR01MB10605644521110D3966F42B77953EA@PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+ PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ 59b3261f-eeb0-4199-8dcb-08dde3fdf15c
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress: 122.15.35.173
+x-ms-exchange-organization-originalserveripaddress: 2603:1096:c01:246::11
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ iYOKYqKtBU2ssmKzzP5pcx/6PT1PvWqh8mGLUQ8zYL9mYx/GIaZnQ6MHoXhbjt8ZM0BAkQ9ygZD2uMgRlXcdt04B7dcqyXKJQ8RR8NNXIkvc+OiHjozpLQltZu/gLBU5Dg9qKoxSY5CQFBvNiolEow6XuGbTit6ZDlUXtykGvXgalVVQc7xtoR3mD4mH7aPY5II89h5rfEuY/aQGrpXk4u5ptZ1w6DrmnTWX/FLM2NIqNapv/8blZVgu6l1nmiCtFxWv03qZBRfL+0I6uYPLzvK1jVNKqluc+uuXWIGP2ycgi3TrQfzbcgo6Bm7nDSyzs16o2jgEFPyN5X999x8GayqbXOtSuFshK9ZoO6kav91rCBw0Gjcb6UrICZU/9xtMw82LT/RG7Y0XgoCBy1UCTzusIVi7SsMUTpYzEY1LmI4oIk/YEa/grh4LZkOomBioFBydfv91UeNuavp/jkIp9rrMsls1/Q2QJ8r5zvYOkIK9yY9tH8Ea7QkwurIGDoFb11NiXEI6xSUbJMn8N91iPVGHpUNSQZX2S3sc1tWQagQ25VGY8klbuTH872IfHmS8wJIL1A3pr5MHPM0Wp80JmG5C9/IYGjlVIbzXG5H3F8F82Igf2eUUg22wWFIg3tXgZxrnYAOZETzVBsb7ogadlG59Wee6OCgnsHB1KVdFl68wQi/S9LE4nI/E/YQPh0YUnnPQT6dKvsgRGKNdo8ojCL5RlGE3kvx6EMEZCfB4JstVyRS1OJoni4autWP9vqOzE48GQgIs5xfY6tSK3gb6i2+vGxGT5r2wV8m8SdE6CKQ=
+Content-Type: multipart/alternative;
+	boundary="_000_PNZPR01MB10605644521110D3966F42B77953EAPNZPR01MB10605IN_"
+MIME-Version: 1.0
+
+--_000_PNZPR01MB10605644521110D3966F42B77953EAPNZPR01MB10605IN_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear all,
+Please go through the trailing mail that may be of your interest.
+
+
+--
+
+
+Dear SNUC students,
+
+
+We're pleased to extend applications for the Finlatics Business Analytics E=
+xperience Program, an online live project that helps students learn & gain =
+experience in Data Analytics and Forecasting Techniques at the Shiv Nadar U=
+niversity, Chennai.
+
+
+
+This project is being run at leading campuses, including IIT Bombay, IIT De=
+lhi, IIT Madras and BITS Pilani among others.
+
+
+STRUCTURE of the Live Project:
+
+
+1. Build interactive dashboards using real sales data on MS Excel and Power=
+ BI
+
+2. Gain hands-on experience with data-driven tools to understand profitabil=
+ity analysis and pricing decisions according to market requirements
+
+3. Explore forecasting techniques, including Linear Forecasting and Exponen=
+tial Smoothing
+
+4. Learn & engage in Predictive Modelling & Trend Estimation on real-time d=
+ata to gain actionable insights
+
+5. Apply simulations to profitability and pricing decisions on industry-spe=
+cific case projects
+
+The project is doable along with any other commitment due to its work-from-=
+home and online structure.
+
+
+
+Student OUTCOMES:
+
+
+
+1. Certificate of Work Experience
+
+2. Letter of Recommendation on performance
+
+
+
+To apply, students can fill out the form below and we will get in touch:
+
+https://www.finlatics.com/da_applications?src=3Dsnuc
+
+
+No prerequisites or prior domain knowledge are required to be a part of the=
+ program. All necessary training will be imparted to the program.
+
+
+Project Duration: 2 months
+
+
+Time commitment: 3 - 4 hours per week
+
+
+
+Project Start: Flexible, on student choice
+
+
+
+Project Break & Extension: Selected students will be eligible for a break o=
+r extension during the project if needed for any exams, assignments, or per=
+sonal commitments.
+
+
+If selected, the program has a minimal induction fee of Rs. 1999 + GST / Rs=
+. 2999 + GST (on student choice).
+
+
+Fee Waiver: A 15 - 25% fee waiver shall be given to all the Shiv Nadar Univ=
+ersity, Chennai students on the abovementioned minimal induction fee.
+
+
+To be eligible for the waiver, kindly apply through the above-mentioned lin=
+k only.
+
+
+Warm regards,
+Team Finlatics
++91 9136072313
+[https://lh3.googleusercontent.com/d/1Dq7dn6VXtbwrjYmPea1o6djNyOvKPbd-]
+
+Know more about us: https://www.finlatics.com/
+
+Linkedin: https://www.linkedin.com/company/fincrux-enabling-insights/
+
+Mumbai: 903, Atrium 2, Andheri - Kurla Road, Andheri (E), Mumbai 40009
+
+Gurgaon: 424A, Fourth Floor - Tower B3, Spaze I-Tech Park, Sohna Road, Sect=
+or 49, Gurgaon 122018
+
+
+--
+
+
+Disclaimer: This message is intended to inform you about the programs offer=
+ed by Finlatics, a sponsor for Instincts '25.
+Participation in the program is entirely at your own discretion. The inform=
+ation provided in this message is for promotional purposes only.
+
+
+--_000_PNZPR01MB10605644521110D3966F42B77953EAPNZPR01MB10605IN_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"background-color: rgb(255, 255, 255); margin: 0px;" class=3D"=
+elementToProof">
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-sys=
+tem, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; fo=
+nt-size: 15px; color: rgb(36, 36, 36);" class=3D"elementToProof">
+Dear all,</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-sys=
+tem, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; fo=
+nt-size: 15px; color: rgb(36, 36, 36);" class=3D"elementToProof">
+Please go through the trailing mail that may be of your interest.</div>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">--</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">Dear SNUC students,</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">We're&nbsp;pleased to extend applications for the
+<b>Finlatics&nbsp;Business&nbsp;Analytics Experience Program</b>, an online=
+ <b>live&nbsp;project</b>&nbsp;that helps students learn &amp; gain&nbsp;ex=
+perience&nbsp;in
+<b>Data Analytics</b>&nbsp;and <b>Forecasting Techniques</b>&nbsp;at the <b=
+>Shiv Nadar University, Chennai</b>.&nbsp;&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">This&nbsp;project&nbsp;is being run at leading campuses, including
+<b>IIT Bombay, IIT Delhi, IIT Madras </b>and <b>BITS Pilani </b>among other=
+s.&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b><u>STRUCTURE of the&nbsp;Live&nbsp;Project:</u></b></span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West =
+European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica=
+ Neue&quot;, sans-serif; font-size: 15px; color: black;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: 1.38; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">1. Build
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: black; font-weight: 700;">interactive dashboards</span><span style=3D"fo=
+nt-family: Arial, sans-serif; font-size: 15px; color: black;">&nbsp;using r=
+eal sales data on
+<b>MS Excel</b>&nbsp;and <b>Power BI</b></span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: 1.38; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">2. Gain hands-on experience with<b>&nbsp;data-driven tools
+</b>to understand </span><span style=3D"font-family: Arial, sans-serif; fon=
+t-size: 15px; color: black; font-weight: 700;">profitability
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: black;">analysis and
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: black; font-weight: 700;">pricing
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: black;">decisions according to market requirements</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: 1.38; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">3. Explore
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: black; font-weight: 700;">forecasting
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: black;">techniques, including
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: black; font-weight: 700;">Linear Forecasting</span><span style=3D"font-f=
+amily: Arial, sans-serif; font-size: 15px; color: black;">&nbsp;and</span><=
+span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: black=
+; font-weight: 700;">&nbsp;Exponential
+ Smoothing</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: 1.38; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">4. Learn &amp; engage in
+<b>Predictive Modelling </b>&amp; <b>Trend Estimation</b>&nbsp;on real-time=
+ data to gain actionable insights</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: 1.38; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">5. Apply
+<b>simulations </b>to profitability and pricing decisions on </span><span s=
+tyle=3D"font-family: Arial, sans-serif; font-size: 15px; color: black; font=
+-weight: 700;">industry-specific case projects</span></p>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: black;" class=3D"elementToProof">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: Arial, sans-serif; font-size: 15px; color: black;" class=
+=3D"elementToProof">
+The&nbsp;project&nbsp;is doable along with any other commitment due to its =
+<b>work-from-home and online</b>&nbsp;structure.</div>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b>Student OUTCOMES:</b></span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">1. <b>
+Certificate of Work Experience&nbsp;</b></span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">2. <b>
+Letter of Recommendation </b>on performance</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b>&nbsp;</b></span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">To <b>
+apply</b>, students can fill out the form below and we will get in touch:</=
+span></p>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: rgb(80, 0, 80);" class=3D"elementToPr=
+oof">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: rgb(80, 0, 80);" class=3D"elementToPr=
+oof">
+<a style=3D"margin: 0px;" data-auth=3D"NotApplicable" data-linkindex=3D"0" =
+rel=3D"noopener noreferrer" title=3D"https://www.finlatics.com/da_applicati=
+ons?src=3Dsnuc" class=3D"OWAAutoLink" id=3D"OWAfb5bb004-f9ba-9244-7a8a-ec4e=
+17e3673b" target=3D"_blank" href=3D"https://www.finlatics.com/da_applicatio=
+ns?src=3Dsnuc">https://www.finlatics.com/da_applications?src=3Dsnuc</a></di=
+v>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: black;" class=3D"elementToProof">
+<br>
+</div>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b>N</b></span><span style=3D"font-family: &quot;Segoe UI&quot;, &quot;=
+Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Robo=
+to, &quot;Helvetica Neue&quot;, sans-serif; font-size: 13px; color: black;"=
+><b>o
+ prerequisites</b>&nbsp;or prior domain knowledge are required to be a part=
+ of the program. All necessary
+<b>training </b>will be imparted to the program.</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b>Project&nbsp;Duration:
+</b>2 months</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(80, 0, 80);" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b>Time commitment:</b>&nbsp;3 - 4 hours per week</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b>Project&nbsp;Start</b>:
+<b>Flexible</b>, on student choice</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><b>Project&nbsp;Break &amp; Extension</b>: Selected students will be el=
+igible for a
+<b>break or extension</b>&nbsp;during the&nbsp;project&nbsp;if needed for a=
+ny <b>exams, assignments,
+</b>or <b>personal</b>&nbsp;commitments.</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: blac=
+k;">If selected, the program has a minimal induction fee of Rs. 1999 + GST =
+/ Rs. 2999 + GST (on student choice).</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 15px; =
+color: black;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West =
+European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica=
+ Neue&quot;, sans-serif; font-size: 15px; color: black;"><b>Fee&nbsp;Waiver=
+:
+</b>A <b>15</b>&nbsp;- <b>25% fee waiver</b>&nbsp;shall be given to all the=
+ <b>Shiv Nadar</b>&nbsp;<b>University, Chennai</b></span><span style=3D"fon=
+t-family: Arial, sans-serif; font-size: 15px; color: black;"><b>&nbsp;</b>s=
+tudents</span><span style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe=
+ UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &=
+quot;Helvetica Neue&quot;, sans-serif; font-size: 15px; color: black;">&nbs=
+p;on
+ the abovementioned minimal induction&nbsp;fee.&nbsp;</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West =
+European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica=
+ Neue&quot;, sans-serif; font-size: 15px; color: black;"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West =
+European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica=
+ Neue&quot;, sans-serif; font-size: 15px; color: black;">To be eligible for=
+ the waiver, kindly apply through the above-mentioned link only.</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px; color: rgb(34, 34, 34);" class=3D"elementToProof">
+<span style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West =
+European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica=
+ Neue&quot;, sans-serif; font-size: 15px; color: black;"><br>
+</span></p>
+</div>
+<div style=3D"background-color: rgb(255, 255, 255); margin: 0px;" class=3D"=
+elementToProof">
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: rgb(36, 36, 36);" class=3D"elementToP=
+roof">
+Warm regards,</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: rgb(36, 36, 36);" class=3D"elementToP=
+roof">
+Team Finlatics</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: rgb(36, 36, 36);" class=3D"elementToP=
+roof">
++91 9136072313</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&q=
+uot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;=
+, sans-serif; font-size: 15px; color: rgb(36, 36, 36);" class=3D"elementToP=
+roof">
+<img style=3D"width: 200px; height: 61px; margin: 0px;" height=3D"61" width=
+=3D"200" src=3D"https://lh3.googleusercontent.com/d/1Dq7dn6VXtbwrjYmPea1o6d=
+jNyOvKPbd-"></div>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: rgb(=
+36, 36, 36);"><i>Know more about us:
+<a style=3D"margin: 0px;" data-auth=3D"NotApplicable" data-linkindex=3D"1" =
+rel=3D"noopener noreferrer" title=3D"https://www.finlatics.com/" class=3D"O=
+WAAutoLink" id=3D"OWAb21bf690-0fff-e848-7868-8db1bcde45ad" target=3D"_blank=
+" href=3D"https://www.finlatics.com/">
+https://www.finlatics.com/</a></i></span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: rgb(=
+36, 36, 36);"><i>Linkedin:
+<a style=3D"margin: 0px;" data-auth=3D"NotApplicable" data-linkindex=3D"2" =
+rel=3D"noopener noreferrer" title=3D"https://www.linkedin.com/company/fincr=
+ux-enabling-insights/" class=3D"OWAAutoLink" id=3D"OWA7333a63b-4b43-5416-3b=
+55-8ca2351ddb4e" target=3D"_blank" href=3D"https://www.linkedin.com/company=
+/fincrux-enabling-insights/">
+https://www.linkedin.com/company/fincrux-enabling-insights/</a></i></span><=
+/p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: rgb(=
+36, 36, 36);"><b>Mumbai</b>: 903, Atrium 2, Andheri - Kurla Road, Andheri (=
+E), Mumbai 40009</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: rgb(=
+55, 53, 53); font-weight: bolder;">Gurgaon:
+</span><span style=3D"font-family: Arial, sans-serif; font-size: 15px; colo=
+r: rgb(55, 53, 53);">424A, Fourth Floor - Tower B3, Spaze I-Tech Park, Sohn=
+a Road, Sector 49, Gurgaon 122018</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: rgb(=
+55, 53, 53);"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: rgb(=
+55, 53, 53);">--</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: Arial, sans-serif; font-size: 15px; color: rgb(=
+55, 53, 53);"><br>
+</span></p>
+<p style=3D"direction: ltr; text-align: left; text-indent: 0px; line-height=
+: normal; margin: 0px;" class=3D"elementToProof">
+<span style=3D"font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West =
+European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica=
+ Neue&quot;, sans-serif; font-size: 15px; color: rgb(36, 36, 36);">Disclaim=
+er: This message is intended to inform you about the programs offered
+ by Finlatics, a sponsor for Instincts '25.<br>
+Participation in the program is entirely at your own discretion. The inform=
+ation provided in this message is for promotional purposes only.&nbsp;</spa=
+n></p>
+</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, =
+Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);" clas=
+s=3D"elementToProof">
+<br>
+</div>
+</body>
+</html>
+
+--_000_PNZPR01MB10605644521110D3966F42B77953EAPNZPR01MB10605IN_--

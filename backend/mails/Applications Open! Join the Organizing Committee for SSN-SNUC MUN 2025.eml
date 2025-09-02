@@ -1,0 +1,405 @@
+Received: from MA1PPF209D2358D.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ MA1PR01MB3753.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Sat, 3 May 2025 17:28:58
+ +0000
+Received: from PNZPR01MB4495.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:1b::11)
+ by MA1PPF209D2358D.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a04::89) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8699.25; Sat, 3 May
+ 2025 17:28:54 +0000
+Received: from MAZPR01MB6002.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:69::10)
+ by PNZPR01MB4495.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:1b::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8699.25; Sat, 3 May
+ 2025 17:28:48 +0000
+Received: from MAZPR01MB6002.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::a49a:371e:659a:2ca2]) by MAZPR01MB6002.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::a49a:371e:659a:2ca2%7]) with mapi id 15.20.8699.022; Sat, 3 May 2025
+ 17:28:48 +0000
+From: munsociety <munsociety@SNUCHENNAI.EDU.IN>
+To: ug-2021 <ug-2021@snuchennai.edu.in>, ug-2022 <ug-2022@snuchennai.edu.in>,
+	ug-2023 <ug-2023@snuchennai.edu.in>, ug-2024 <ug-2024@snuchennai.edu.in>,
+	mtech-ai-ds-2023 <mtech-ai-ds-2023@snuchennai.edu.in>, mtech-ai-ds-2024
+	<mtech-ai-ds-2024@snuchennai.edu.in>, ba-llb-2024
+	<ba-llb-2024@snuchennai.edu.in>
+CC: "sudharsan2210872@ssn.edu.in" <sudharsan2210872@ssn.edu.in>, Shreya
+ Nandagopal <shreya23110216@snuchennai.edu.in>, Rohit M
+	<rohitm@snuchennai.edu.in>, INDRANI SENGUPTA
+	<indranisengupta@snuchennai.edu.in>, "aashrithsudharshan2210123@ssn.edu.in"
+	<aashrithsudharshan2210123@ssn.edu.in>, "Dr. Venugopal P"
+	<venugopalp@snuchennai.edu.in>, Cherry Mathew M P
+	<cherrymp@snuchennai.edu.in>, Mahasvan Mohan
+	<mahasvan22110406@snuchennai.edu.in>, Achyuth Mukund
+	<achyuth22110435@snuchennai.edu.in>, "marthak@ssn.edu.in"
+	<marthak@ssn.edu.in>, "Abyaz2310100@ssn.edu.in" <Abyaz2310100@ssn.edu.in>
+Subject: Applications Open! Join the Organizing Committee for SSN-SNUC MUN
+ 2025 
+Thread-Topic: Applications Open! Join the Organizing Committee for SSN-SNUC
+ MUN 2025 
+Thread-Index: AQHbvEhZgBwo9wrDV0GySYix4Hi+Hw==
+Date: Sat, 3 May 2025 17:28:48 +0000
+Message-ID:
+ <MAZPR01MB60020427A4D1B062E2A33AC58F8C2@MAZPR01MB6002.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: MAZPR01MB6002.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ 71f2b605-6177-43f2-4ed5-08dd8a67f6aa
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress:
+ 2409:40f4:1118:e257:80d7:973:a749:ca66
+x-ms-exchange-organization-originalserveripaddress: 2603:1096:a01:69::10
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ kYjmsJIwnD1RdPKYLtpGq5Nf2VBjlaMVFhmxWa/AJkpshYRySqrQJDtWGfZRQefWpYMjgLrBs3VlVaFQyxJiRbRRSLDycl58gCTYvf4mQ5SZ5y4ELkpASE/xIyK53vAWIm+Xu6IB+O5fki9DS2gAxVPvOr9HfgugnT1UfRQxPqg/Nq+0FlDN3PtncsTFWfEAvJ15B4205yU9/O5ycF6KyOnFZsJH5Tf9Gt/u5LmcekC58HWU25NERxEF8V+RhsyFLr/UD7JHzfJOd2OvBuiJZZgKcDx8/Rim7OswnUeqxwsBAUusqDCAZErPFkN0NOAe9rBm2jowHphIQ2mjt7FGOmfXs14sVikE2ys6bYi99d30f1maL65Z7xnhbfYnVNRS97p5yB+Ln9IEJ6+aoxqk0ecfaJ8o9ebo1WHFhe/1AnSgVbEHMqxqrKClX68vNjg/FGLGtXS9dTL+qm3S/Shn28bo8TV106Kfv0g+vw31liQscwN5AL1VwjyWKgunIgaUQrtlXM28CE7mu9Zc63o8MI2V5/UKxcV6Q0YGYGAWJj1bDw7+vxRBEATI0rCXQGSqL6lZbF5EA/mmpY3HkZeoyPYUwbWGb25oeCTKdr10kyEVmSMWseWu8f7FDi0Ek51ZI/jP6YG3j8dbzv/uYLrswB5YcV5dnRJXyFgw6e2a2oiXJwKDX3ZCCNd/+hvTaMidbDxMS07KkCWAJ2HTIC/CoMa5hXqayMIxe568YDLmw6L7nwH1BlY7JTDgz/p8BPSSDKKIo34nWBseDhD2ULX4svKY9GHZZdiVtPpVG8jWIDQ=
+Content-Type: multipart/alternative;
+	boundary="_000_MAZPR01MB60020427A4D1B062E2A33AC58F8C2MAZPR01MB6002INDP_"
+MIME-Version: 1.0
+
+--_000_MAZPR01MB60020427A4D1B062E2A33AC58F8C2MAZPR01MB6002INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Students,
+
+We are excited to announce that SSN-SNUC MUN is back with its 12th edition,=
+ and we are officially calling for applications to join our Organizing Comm=
+ittee as General Administrators (GAs)!
+
+This year, we have 9 demanding verticals you can be a part of:
+
+1. Design
+2. Finance
+3. Logistics
+4. Public Relations (PR)
+5. Visual Media (VM)
+6. Sponsorship
+7. Hospitality
+8. Delegate Affairs (DA)
+9. Tech
+
+Each vertical plays a vital role in bringing this conference to life, and n=
+o matter your background or interests, there is a domain for you to contrib=
+ute meaningfully.
+
+Why should you apply?
+
+1. Be part of one of SSN's and SNUC's most anticipated professional events.
+
+2. Work hands-on across planning, coordination, and execution of a large-sc=
+ale conference, boast about it too!
+
+3. Work with a team that values initiative, creativity, and ownership, buil=
+ding the conference brick - by - brick, in your own way!
+
+4. Stand a chance to be considered for 'Top Performer' awards during the Co=
+nference, and the role of Under Secretary General (USG) in the next edition=
+, based on your performance this year!
+
+Take a look at the detailed vertical descriptions in our exclusive brochure=
+ for GAs attached with this mail, explaining the role and responsibilities =
+of each vertical along with letters from the Secretariat:
+
+https://drive.google.com/file/d/1iMpE7OjAbbEMV7lHVLouGGX-Yg2Pje-_/view?usp=
+=3Ddrivesdk
+GA BROCHURE<https://drive.google.com/file/d/1iMpE7OjAbbEMV7lHVLouGGX-Yg2Pje=
+-_/view?usp=3Ddrivesdk>
+
+Applications are now open, apply here:
+https://forms.gle/iJewW3kqqgt4HJxs6
+Application form<https://forms.gle/iJewW3kqqgt4HJxs6>
+
+Deadline: 17th May 2025, 11:59 pm
+
+For any queries, feel free to contact:
+
+Aashrith Narayn,
+Secretary General,
++91 99402 37692
+
+Shreya N
+Director General,
++91 98401 36147
+
+We look forward to your applications, and cannot wait to see the energy, id=
+eas, and enthusiasm you will bring to the team!
+
+Warm regards,
+SSN-SNUC MUN Organizing Committee 12.0
+
+--_000_MAZPR01MB60020427A4D1B062E2A33AC58F8C2MAZPR01MB6002INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Dear Students,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+We are excited to announce that SSN-SNUC MUN is back with its 12th edition,=
+ and we are officially calling for applications to join our Organizing Comm=
+ittee as General Administrators (GAs)!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+This year, we have 9 demanding verticals you can be a part of:</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+1. Design</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+2. Finance</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+3. Logistics</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+4. Public Relations (PR)</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+5. Visual Media (VM)</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+6. Sponsorship</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+7. Hospitality</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+8. Delegate Affairs (DA)</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+9. Tech</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Each vertical plays a vital role in bringing this conference to life, and n=
+o matter your background or interests, there is a domain for you to contrib=
+ute meaningfully.</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Why should you apply?</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+1. Be part of one of SSN's and SNUC's most anticipated professional events.=
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+2. Work hands-on across planning, coordination, and execution of a large-sc=
+ale conference, boast about it too!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+3. Work with a team that values initiative, creativity, and ownership, buil=
+ding the conference brick - by - brick, in your own way!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+4. Stand a chance to be considered for 'Top Performer' awards during the Co=
+nference, and the role of Under Secretary General (USG) in the next edition=
+, based on your performance this year!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Take a look at the detailed vertical descriptions in our exclusive brochure=
+ for GAs attached with this mail, explaining the role and responsibilities =
+of each vertical along with letters from the Secretariat:</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<a href=3D"https://drive.google.com/file/d/1iMpE7OjAbbEMV7lHVLouGGX-Yg2Pje-=
+_/view?usp=3Ddrivesdk" id=3D"OWAde3126f4-1064-f4f5-9b7b-bd85b3c52f82" class=
+=3D"OWAAutoLink" title=3D"https://drive.google.com/file/d/1iMpE7OjAbbEMV7lH=
+VLouGGX-Yg2Pje-_/view?usp=3Ddrivesdk">https://drive.google.com/file/d/1iMpE=
+7OjAbbEMV7lHVLouGGX-Yg2Pje-_/view?usp=3Ddrivesdk</a></div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<a href=3D"https://drive.google.com/file/d/1iMpE7OjAbbEMV7lHVLouGGX-Yg2Pje-=
+_/view?usp=3Ddrivesdk" id=3D"OWAb1cb7bdb-edd2-055d-2ea7-d71013a1d4a8" class=
+=3D"OWAAutoLink" title=3D"https://drive.google.com/file/d/1iMpE7OjAbbEMV7lH=
+VLouGGX-Yg2Pje-_/view?usp=3Ddrivesdk">GA BROCHURE</a></div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Applications are now open, apply here:&nbsp;</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<a href=3D"https://forms.gle/iJewW3kqqgt4HJxs6" id=3D"LPlnk515294" class=3D=
+"OWAAutoLink" title=3D"https://forms.gle/iJewW3kqqgt4HJxs6">https://forms.g=
+le/iJewW3kqqgt4HJxs6</a></div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<a href=3D"https://forms.gle/iJewW3kqqgt4HJxs6" id=3D"LPlnk246696" title=3D=
+"https://forms.gle/iJewW3kqqgt4HJxs6">Application form</a></div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Deadline: 17th May 2025, 11:59 pm</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+For any queries, feel free to contact:&nbsp;</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Aashrith Narayn,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Secretary General,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
++91 99402 37692</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Shreya N&nbsp;</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Director General,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
++91 98401 36147</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+We look forward to your applications, and cannot wait to see the energy, id=
+eas, and enthusiasm you will bring to the team!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Warm regards,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+SSN-SNUC MUN Organizing Committee 12.0</div>
+</body>
+</html>
+
+--_000_MAZPR01MB60020427A4D1B062E2A33AC58F8C2MAZPR01MB6002INDP_--

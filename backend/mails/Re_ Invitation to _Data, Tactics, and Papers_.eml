@@ -1,0 +1,405 @@
+Received: from PN0PR01MB10207.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ BMXPR01MB3752.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Wed, 26 Mar 2025 07:57:43
+ +0000
+Received: from PN0PR01MB7654.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:b4::14)
+ by PN0PR01MB10207.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:1ef::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8534.44; Wed, 26 Mar
+ 2025 07:57:39 +0000
+Received: from PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:12f::13)
+ by PN0PR01MB7654.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:b4::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8534.34; Wed, 26 Mar
+ 2025 07:57:36 +0000
+Received: from PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d9f9:890e:f666:bafb]) by PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d9f9:890e:f666:bafb%7]) with mapi id 15.20.8534.043; Wed, 26 Mar 2025
+ 07:57:36 +0000
+From: codingclub <codingclub@SNUCHENNAI.EDU.IN>
+To: ug-2021 <ug-2021@snuchennai.edu.in>, ug-2022 <ug-2022@snuchennai.edu.in>,
+	ug-2023 <ug-2023@snuchennai.edu.in>, ug-2024 <ug-2024@snuchennai.edu.in>
+CC: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>, "Dr. Sundharakumar K
+ B" <sundharakumarkb@snuchennai.edu.in>, PADMAVATHI
+	<padmavathiu@snuchennai.edu.in>, Sadanand Venkataraman
+	<sadanand23120023@snuchennai.edu.in>, Muthu Palaniappan M
+	<muthu21110142@SNUCHENNAI.EDU.IN>, Kandukuri Lohith Saradhi
+	<lohith21110257@SNUCHENNAI.EDU.IN>, clubs <clubs@snuchennai.edu.in>
+Subject: Re: Invitation to "Data, Tactics, and Papers"
+Thread-Topic: Invitation to "Data, Tactics, and Papers"
+Thread-Index: AQHblYuV34MHvbB9P0GoNRVJc+v+1bOE1APzgAA4YruAABGy6Q==
+Date: Wed, 26 Mar 2025 07:57:35 +0000
+Message-ID:
+ <PN2PR01MB9862E7292993BEED33F2E48997A62@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+References:
+ <PN2PR01MB98627F34AB9470052F7E0AB797DD2@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+ <PN2PR01MB98622F135820C05271CE123D97A62@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+ <PN2PR01MB98622C3F061A76CE6A39877697A62@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+In-Reply-To:
+ <PN2PR01MB98622C3F061A76CE6A39877697A62@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ 4d2087a3-d6a9-4513-c89b-08dd6c3bdf31
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress: 2a09:bac5:3e2d:a8c::10d:2e
+x-ms-exchange-organization-originalserveripaddress: ::1
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ 1TQuOQLSd3f3JfNORsmd/NqmDSev0109WMcx6oM7/LVC/FEIIFF4lGBTCRkvDBkXHuluzV+P+W+Rw2Pgpc+QldadI4rY0yAok3ZErnP372yJ1KGBhKiyOAE8AErkB2FY1YyK4AnYcHmti5wfUY8JL/Peo3Idtf9GkAT4zV5I/mvefnBQj80TNfR557vMzg4n9H0PlMx5ZeutR8qU/qYJg+yFPelZAGUSnZUpUzZEAtV8+SuoQXpyvQ0l0oyDfEEsN6CIPBPlwhqZXXjBZZJSEwG0hZH+tU5zSt358UWxypklcBDlPwdXhosn3IZc3AJbXsG5lby/PI7ET4EE8hErdvCJyKQ6noutgfN2CHFi0B9PZRCu10Bi8e+3VSlEBf7EOhmKPqHZegJmlUrXNF6BvM3bmDrvqXIygcWRFXAJHJY+WnImybFtOMD6IIqPJ7ifga8FsQGs1GLU3lhvdtwyGVkl+OoGQQPK7IsLGwYg+ysLnMeoJ3H2Djdx/+hfF6Lej7r6wttS5lxHviIyMbd4tzoLJ8UTMC+N7jwdyW7uf5ixRKDP1N5N+tUf6ByMi8db24jvq+ifcPH5AHsZ/J7oTeVnJ2xKyTXNyr2sOQkBRb4xZWTDwhRqI5Ivr4Vk4+c4ZSTxZitWqtCb3WMrTMTZWqqLrzbKrlliKwkps/S+j54nWeP8o5oHVcYucQDV5csv9gxPJz2DqbrBT/mv4pjVcrwoDGl9sWodSaAfYXa4zzpB8DSXTyXpSLocZsOCATL3aTnkUmEOdS8eu/ivEG67kPtioLq+RZOHXRajiFWs0To=
+Content-Type: multipart/alternative;
+	boundary="_000_PN2PR01MB9862E7292993BEED33F2E48997A62PN2PR01MB9862INDP_"
+MIME-Version: 1.0
+
+--_000_PN2PR01MB9862E7292993BEED33F2E48997A62PN2PR01MB9862INDP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Dear all
+
+Event will start at 1:35PM
+The venue is AB1 Seminar Hall
+
+Please ensure you are present on time.
+
+Warm Regards
+CC Core Team
+
+________________________________
+From: codingclub <codingclub@SNUCHENNAI.EDU.IN>
+Sent: Wednesday, March 26, 2025 12:23 PM
+To: ug-2021 <ug-2021@snuchennai.edu.in>; ug-2022 <ug-2022@snuchennai.edu.in=
+>; ug-2023 <ug-2023@snuchennai.edu.in>; ug-2024 <ug-2024@snuchennai.edu.in>
+Cc: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>; Dr. Sundharakumar=
+ K B <sundharakumarkb@snuchennai.edu.in>; PADMAVATHI <padmavathiu@snuchenna=
+i.edu.in>; Sadanand Venkataraman <sadanand23120023@snuchennai.edu.in>; Muth=
+u Palaniappan M <muthu21110142@SNUCHENNAI.EDU.IN>; Kandukuri Lohith Saradhi=
+ <lohith21110257@SNUCHENNAI.EDU.IN>; clubs <clubs@snuchennai.edu.in>
+Subject: Re: Invitation to "Data, Tactics, and Papers"
+
+Dear all
+
+Please note the venue has been changed to AB1 Seminar Hall
+
+Warm Regards
+CC Core Team
+________________________________
+From: codingclub <codingclub@SNUCHENNAI.EDU.IN>
+Sent: Wednesday, March 26, 2025 9:07 AM
+To: ug-2021 <ug-2021@snuchennai.edu.in>; ug-2022 <ug-2022@snuchennai.edu.in=
+>; ug-2023 <ug-2023@snuchennai.edu.in>; ug-2024 <ug-2024@snuchennai.edu.in>
+Cc: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>; Dr. Sundharakumar=
+ K B <sundharakumarkb@snuchennai.edu.in>; PADMAVATHI <padmavathiu@snuchenna=
+i.edu.in>; Sadanand Venkataraman <sadanand23120023@snuchennai.edu.in>; Muth=
+u Palaniappan M <muthu21110142@SNUCHENNAI.EDU.IN>; Kandukuri Lohith Saradhi=
+ <lohith21110257@SNUCHENNAI.EDU.IN>; clubs <clubs@snuchennai.edu.in>
+Subject: Re: Invitation to "Data, Tactics, and Papers"
+
+Dear All,
+
+This is a reminder for the session today, from 1PM-2:30PM. Don't miss out o=
+f this opportunity, especially if you are a data science enthusiast. This s=
+ession would also be highly valuable for people looking to pursue higher st=
+udies as well.
+
+Special call to first years, getting started soon will undoubtedly give you=
+ a serious competitive advantage. We say it again, Don't miss out!
+
+Date: 26th March 2025
+Time: 1:00 PM =96 2:30 PM
+Venue: AB3 Seminar Hall
+
+Looking forward to seeing you there!
+
+Warm regards
+CC Core Team
+________________________________
+From: codingclub <codingclub@SNUCHENNAI.EDU.IN>
+Sent: Saturday, March 15, 2025 3:01 PM
+To: ug-2021 <ug-2021@snuchennai.edu.in>; ug-2022 <ug-2022@snuchennai.edu.in=
+>; ug-2023 <ug-2023@snuchennai.edu.in>; ug-2024 <ug-2024@snuchennai.edu.in>
+Cc: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>; Dr. Sundharakumar=
+ K B <sundharakumarkb@snuchennai.edu.in>; PADMAVATHI <padmavathiu@snuchenna=
+i.edu.in>; Sadanand Venkataraman <sadanand23120023@snuchennai.edu.in>; Muth=
+u Palaniappan M <muthu21110142@SNUCHENNAI.EDU.IN>; Kandukuri Lohith Saradhi=
+ <lohith21110257@SNUCHENNAI.EDU.IN>; clubs <clubs@snuchennai.edu.in>
+Subject: Invitation to "Data, Tactics, and Papers"
+
+Dear Guys,
+
+The SNUC Coding Club is excited to invite you to an insightful session by @=
+Sadanand Venkataraman<mailto:sadanand23120023@snuchennai.edu.in> , titled "=
+Data, Tactics, and Papers." This talk will explore the intersection of data=
+ analytics, tactical decision-making, and research papers, offering valuabl=
+e insights for students and enthusiasts in AI, sports analytics, and data s=
+cience.
+
+Date: 26th March 2025
+Time: 1:00 PM =96 2:30 PM
+Venue: AB3 Seminar Hall
+
+We look forward to your participation! Feel free to bring along your peers.
+
+Warm regards,
+Muthu Palaniappan M & Lohith KS
+
+President,
+
+SNUC Coding Club
+
+--_000_PN2PR01MB9862E7292993BEED33F2E48997A62PN2PR01MB9862INDP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Dear all<br>
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Event will start at <b>1:35PM</b></div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<b>The venue is AB1 Seminar Hall<br>
+<br>
+</b>Please ensure you are present on time.<br>
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Warm Regards<br>
+CC Core Team</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<b><br>
+</b></div>
+<div id=3D"appendonsend"></div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> codingclub &lt;coding=
+club@SNUCHENNAI.EDU.IN&gt;<br>
+<b>Sent:</b> Wednesday, March 26, 2025 12:23 PM<br>
+<b>To:</b> ug-2021 &lt;ug-2021@snuchennai.edu.in&gt;; ug-2022 &lt;ug-2022@s=
+nuchennai.edu.in&gt;; ug-2023 &lt;ug-2023@snuchennai.edu.in&gt;; ug-2024 &l=
+t;ug-2024@snuchennai.edu.in&gt;<br>
+<b>Cc:</b> Santhi Natarajan &lt;santhinatarajan@snuchennai.edu.in&gt;; Dr. =
+Sundharakumar K B &lt;sundharakumarkb@snuchennai.edu.in&gt;; PADMAVATHI &lt=
+;padmavathiu@snuchennai.edu.in&gt;; Sadanand Venkataraman &lt;sadanand23120=
+023@snuchennai.edu.in&gt;; Muthu Palaniappan M &lt;muthu21110142@SNUCHENNAI=
+.EDU.IN&gt;;
+ Kandukuri Lohith Saradhi &lt;lohith21110257@SNUCHENNAI.EDU.IN&gt;; clubs &=
+lt;clubs@snuchennai.edu.in&gt;<br>
+<b>Subject:</b> Re: Invitation to &quot;Data, Tactics, and Papers&quot;</fo=
+nt>
+<div>&nbsp;</div>
+</div>
+<style type=3D"text/css" style=3D"display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir=3D"ltr">
+<div class=3D"x_elementToProof" style=3D"font-family:Aptos,Aptos_EmbeddedFo=
+nt,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:=
+rgb(0,0,0)">
+Dear all<br>
+<br>
+</div>
+<div class=3D"x_elementToProof" style=3D"font-family:Aptos,Aptos_EmbeddedFo=
+nt,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:=
+rgb(0,0,0)">
+<b>Please note the venue has been changed to AB1 Seminar Hall</b></div>
+<div class=3D"x_elementToProof" style=3D"font-family:Aptos,Aptos_EmbeddedFo=
+nt,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:=
+rgb(0,0,0)">
+<br>
+</div>
+<div class=3D"x_elementToProof" style=3D"font-family:Aptos,Aptos_EmbeddedFo=
+nt,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:=
+rgb(0,0,0)">
+Warm Regards<br>
+CC Core Team</div>
+<div id=3D"x_appendonsend"></div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" =
+color=3D"#000000" style=3D"font-size:11pt"><b>From:</b> codingclub &lt;codi=
+ngclub@SNUCHENNAI.EDU.IN&gt;<br>
+<b>Sent:</b> Wednesday, March 26, 2025 9:07 AM<br>
+<b>To:</b> ug-2021 &lt;ug-2021@snuchennai.edu.in&gt;; ug-2022 &lt;ug-2022@s=
+nuchennai.edu.in&gt;; ug-2023 &lt;ug-2023@snuchennai.edu.in&gt;; ug-2024 &l=
+t;ug-2024@snuchennai.edu.in&gt;<br>
+<b>Cc:</b> Santhi Natarajan &lt;santhinatarajan@snuchennai.edu.in&gt;; Dr. =
+Sundharakumar K B &lt;sundharakumarkb@snuchennai.edu.in&gt;; PADMAVATHI &lt=
+;padmavathiu@snuchennai.edu.in&gt;; Sadanand Venkataraman &lt;sadanand23120=
+023@snuchennai.edu.in&gt;; Muthu Palaniappan M &lt;muthu21110142@SNUCHENNAI=
+.EDU.IN&gt;;
+ Kandukuri Lohith Saradhi &lt;lohith21110257@SNUCHENNAI.EDU.IN&gt;; clubs &=
+lt;clubs@snuchennai.edu.in&gt;<br>
+<b>Subject:</b> Re: Invitation to &quot;Data, Tactics, and Papers&quot;</fo=
+nt>
+<div>&nbsp;</div>
+</div>
+<style type=3D"text/css" style=3D"display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir=3D"ltr">
+<div class=3D"x_x_elementToProof" style=3D"font-family:Aptos,Aptos_Embedded=
+Font,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; colo=
+r:rgb(0,0,0)">
+Dear All,<br>
+<br>
+</div>
+<div class=3D"x_x_elementToProof" style=3D"text-align:left; text-indent:0px=
+; background-color:rgb(255,255,255); margin:0px; font-family:Aptos,Aptos_Em=
+beddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt=
+; color:rgb(0,0,0)">
+This is a reminder for the session today, from <b>1PM-2:30PM. </b>Don't mis=
+s out of this opportunity, especially if you are a data science enthusiast.=
+ This session would also be highly valuable for people looking to pursue hi=
+gher studies as well.&nbsp;<br>
+<br>
+Special call to first years, getting started soon will undoubtedly give you=
+ a serious competitive advantage. We say it again, Don't miss out!<br>
+<br>
+<b><i>Date: 26th March 2025 &nbsp;</i></b></div>
+<div class=3D"x_x_elementToProof" style=3D"text-align:left; text-indent:0px=
+; background-color:rgb(255,255,255); margin:0px; font-family:Aptos,Aptos_Em=
+beddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt=
+; color:rgb(0,0,0)">
+<b><i>Time: 1:00 PM =96 2:30 PM &nbsp;</i></b></div>
+<div class=3D"x_x_elementToProof" style=3D"text-align:left; text-indent:0px=
+; background-color:rgb(255,255,255); margin:0px; font-family:Aptos,Aptos_Em=
+beddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt=
+; color:rgb(0,0,0)">
+<b><i>Venue: AB3 Seminar Hall &nbsp;</i></b></div>
+<div class=3D"x_x_elementToProof" style=3D"font-family:Aptos,Aptos_Embedded=
+Font,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; colo=
+r:rgb(0,0,0)">
+<br>
+</div>
+<div class=3D"x_x_elementToProof" style=3D"text-align:left; text-indent:0px=
+; background-color:rgb(255,255,255); margin:0px; font-family:Aptos,Aptos_Em=
+beddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt=
+; color:rgb(0,0,0)">
+Looking forward to seeing you there!<br>
+<br>
+Warm regards</div>
+<div class=3D"x_x_elementToProof" style=3D"text-align:left; text-indent:0px=
+; background-color:rgb(255,255,255); margin:0px; font-family:Calibri,sans-s=
+erif; font-size:12pt; color:black">
+<span style=3D"background-color:white">CC Core Team</span></div>
+<div id=3D"x_x_appendonsend"></div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif=
+" color=3D"#000000" style=3D"font-size:11pt"><b>From:</b> codingclub &lt;co=
+dingclub@SNUCHENNAI.EDU.IN&gt;<br>
+<b>Sent:</b> Saturday, March 15, 2025 3:01 PM<br>
+<b>To:</b> ug-2021 &lt;ug-2021@snuchennai.edu.in&gt;; ug-2022 &lt;ug-2022@s=
+nuchennai.edu.in&gt;; ug-2023 &lt;ug-2023@snuchennai.edu.in&gt;; ug-2024 &l=
+t;ug-2024@snuchennai.edu.in&gt;<br>
+<b>Cc:</b> Santhi Natarajan &lt;santhinatarajan@snuchennai.edu.in&gt;; Dr. =
+Sundharakumar K B &lt;sundharakumarkb@snuchennai.edu.in&gt;; PADMAVATHI &lt=
+;padmavathiu@snuchennai.edu.in&gt;; Sadanand Venkataraman &lt;sadanand23120=
+023@snuchennai.edu.in&gt;; Muthu Palaniappan M &lt;muthu21110142@SNUCHENNAI=
+.EDU.IN&gt;;
+ Kandukuri Lohith Saradhi &lt;lohith21110257@SNUCHENNAI.EDU.IN&gt;; clubs &=
+lt;clubs@snuchennai.edu.in&gt;<br>
+<b>Subject:</b> Invitation to &quot;Data, Tactics, and Papers&quot;</font>
+<div>&nbsp;</div>
+</div>
+<style type=3D"text/css" style=3D"display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir=3D"ltr">
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+Dear Guys, &nbsp;</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<br>
+</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+The SNUC Coding Club is excited to invite you to an insightful session by <=
+a href=3D"mailto:sadanand23120023@snuchennai.edu.in" id=3D"OWAAM758763" cla=
+ss=3D"x_x_x_tWKOu x_x_x_mention x_x_x_ms-bgc-nlr x_x_x_ms-fcl-b">
+@Sadanand Venkataraman</a>&nbsp;, titled &quot;<b><i>Data, Tactics, and Pap=
+ers</i></b>.&quot; This talk will explore the intersection of data analytic=
+s, tactical decision-making, and research papers, offering valuable insight=
+s for students and enthusiasts in AI, sports analytics,
+ and data science. &nbsp;</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<br>
+</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<b><i>Date: 26th March 2025 &nbsp;</i></b></div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<b><i>Time: 1:00 PM =96 2:30 PM &nbsp;</i></b></div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<b><i>Venue: AB3 Seminar Hall &nbsp;</i></b></div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+&nbsp;</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+We look forward to your participation! Feel free to bring along your peers.=
+&nbsp;</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<br>
+</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:black">
+Warm regards,<br>
+<span style=3D"font-family:Calibri,sans-serif; background-color:white">Muth=
+u Palaniappan M &amp; Lohith KS</span></div>
+<p style=3D"text-align:left; text-indent:0px; background-color:white; margi=
+n:0px"><span style=3D"font-family:Calibri,sans-serif; font-size:10pt; color=
+:black">President,</span></p>
+<p style=3D"text-align:left; text-indent:0px; background-color:white; margi=
+n:0px"><span style=3D"font-family:Calibri,sans-serif; font-size:10pt; color=
+:black">SNUC Coding Club</span></p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PN2PR01MB9862E7292993BEED33F2E48997A62PN2PR01MB9862INDP_--

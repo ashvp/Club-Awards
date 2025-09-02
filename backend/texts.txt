@@ -8,8 +8,11 @@ how to group clubs??
         * used sentence embeddings to to vectorise and then used DBSCAN to group them.. 
         tuned hyper-parameter to work for my manual data.. 
         now have to figure out a way to either scrape the data from a website or somewhere..
+            ! cannot scrape data because cloudflare is blocking it
+            so im DROPPING web scraper to get the clubs.. let's just go with manual way, its too late now..
         
         ? Now thinking of Outlook mails, because all official communications is through that, 
         so any recognised event would be communicated through that.
             > cannot use Azure APIs since they are not allowed for students by my organisations. (Entra)
             so for the sake of simplicity, im exporting all mails as csv and then filtering whats needed.
+        * forwarded all mail from 2025 to my personal mail, downloaded as zip and saved as .eml files with content..

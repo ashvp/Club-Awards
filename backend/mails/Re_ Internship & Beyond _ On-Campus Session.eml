@@ -1,0 +1,517 @@
+Received: from PN2PPF94433AE8E.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ MA1PR01MB3753.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Tue, 18 Feb 2025 17:39:13
+ +0000
+Received: from PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:12f::13)
+ by PN2PPF94433AE8E.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c04:1::1be) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8466.14; Tue, 18 Feb
+ 2025 17:39:08 +0000
+Received: from PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d9f9:890e:f666:bafb]) by PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d9f9:890e:f666:bafb%7]) with mapi id 15.20.8445.020; Tue, 18 Feb 2025
+ 17:39:08 +0000
+From: codingclub <codingclub@SNUCHENNAI.EDU.IN>
+To: btech-iot-b-2023 <btech-iot-b-2023@snuchennai.edu.in>, btech-iot-a-2023
+	<btech-iot-a-2023@snuchennai.edu.in>, btech-ai-ds-b-2023
+	<btech-ai-ds-b-2023@snuchennai.edu.in>, btech-ai-ds-a-2023
+	<btech-ai-ds-a-2023@snuchennai.edu.in>, btech-cyber-2023
+	<btech-cyber-2023@snuchennai.edu.in>, ug-cse-2024
+	<ug-cse-2024@snuchennai.edu.in>
+CC: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>, "Dr. Sundharakumar K
+ B" <sundharakumarkb@snuchennai.edu.in>, Muthu Palaniappan M
+	<muthu21110142@SNUCHENNAI.EDU.IN>, Kandukuri Lohith Saradhi
+	<lohith21110257@SNUCHENNAI.EDU.IN>
+Subject: Re: Internship & Beyond | On-Campus Session
+Thread-Topic: Internship & Beyond | On-Campus Session
+Thread-Index: AQHbesGPhywst1p3HkKgMpuw020TyrNNYcNj
+Date: Tue, 18 Feb 2025 17:39:08 +0000
+Message-ID:
+ <PN2PR01MB9862BFD46E2F60D954D21ABE97FA2@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+References:
+ <PN2PR01MB98629A95AD3F817DBE4096B797F32@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+In-Reply-To:
+ <PN2PR01MB98629A95AD3F817DBE4096B797F32@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ da1e1827-f394-43c2-03b1-08dd504325e0
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress: 49.205.81.173
+x-ms-exchange-organization-originalserveripaddress: ::1
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ 2GmhSsLcaZ1XLx0jDuQgCrGbO6r2y/C3V8E6UD1E7jBUewU44WrOidr8/BKIsTK9hS+PWjl7MQZrdHZCBLhsuOpQwmNCYXv/cggou0CZl7ZKdKVq108ZHr1meCbRo9vjUIC90r+d5Uj1W4EtOKpU4/ylV36xxbxXLgH5Anu/v31iMmgWwwhg5Ml52etZIr5YqgDMZg64/mU7//2gSj2bfGSbgTaZFxsorMSG3YczDAQK1wWXLf31TeWqp3072kJ96hyL/6e73cLV2flNuTcaKXNPFySkEJKtgU/+8R/hr1yvA76ZtWRl+XPEgBHLW99AtEc1CWUU5SBdxoAKQaEquCkN8OedMX2N0ZgLLjW72imAqoJPU50O9i3zv8Xyx2anazUcu9CjfJK+IGEHd5zGIsvoYW5fwnx/PtrPnNChpmLa96KwAtB/DZxkdrzOt0ULkqiIM/M8trWG3uFMkMqPA/S1ngLikLfeFXdEB9OC7uWIr9rnQfHg0tcMjF11Rsj70lzprvrZa+5x2DnmVD5WYYhM4x0otY+a0/AB0U20jyqltLlx0Cc9IL2jw+bZeVxNJpjCuDDhCEJ/+aCdwN1Ui6GlPNMyrJaiOJZhZpHSq4ez8SEj1xblBrE9jDnebpqmntxwToXDS6K1DvPUF/Fpk1qBq/sKb14lMBk4nXnlUVXLa24o1u/uL3AaQempP9pFWF7nifeGMoszPwJNTI3Trx7vOh44EBXObwQywvWEME5ATMyUdQJ4N3L4J3d0+HFcAWGNSay5YPacD4ZdP6JLoa6VbX0MNxIdk0clZurZaLE=
+Content-Type: multipart/alternative;
+	boundary="_000_PN2PR01MB9862BFD46E2F60D954D21ABE97FA2PN2PR01MB9862INDP_"
+MIME-Version: 1.0
+
+--_000_PN2PR01MB9862BFD46E2F60D954D21ABE97FA2PN2PR01MB9862INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Students,
+
+@ABDULLAH SHERIFF<mailto:abdullah21110220@SNUCHENNAI.EDU.IN> is conducting =
+the session in the trailing email from 01:00 pm to 03:00 pm on Wednesday (1=
+9th February 2025) at the Lecture Hall in AB-3 (Ground Floor).
+
+To the 2nd year students, please read the trailing email for more details. =
+In short, you will gain knowledge about the internship / placement landscap=
+e & the skills & habits (hands-on) that will help you achieve your goals - =
+be it masters, placements, or anything apart from these generic options.
+
+Requirements:
+Kindly bring a fully charged Laptop for the hands-on, although we will try =
+our best to ensure that those without one can equally reap the benefits.
+
+You may ignore the form in the trailing email.
+
+Warm regards,
+The SNUC Coding Club
+
+
+
+________________________________
+From: codingclub
+Sent: Sunday, February 9, 2025 12:57 PM
+To: ug-cse-2024 <ug-cse-2024@snuchennai.edu.in>
+Cc: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>; Dr. Sundharakumar=
+ K B <sundharakumarkb@snuchennai.edu.in>; Muthu Palaniappan M <muthu2111014=
+2@SNUCHENNAI.EDU.IN>; Kandukuri Lohith Saradhi <lohith21110257@SNUCHENNAI.E=
+DU.IN>; cse.faculty <cse.faculty@snuchennai.edu.in>
+Subject: Internship & Beyond | On-Campus Session
+
+Dear Students,
+
+Have you had the following questions:
+
+  1.
+When am I eligible for an internship?
+  2.
+Where to find internships?
+  3.
+Why are people talking about internships? Just how important are they?
+  4.
+What are the types of internships? (Pro question)
+  5.
+How do I navigate this landscape and do what is best for me?
+
+If you have had or see yourself having these questions in the future - we w=
+elcome you to our session "Internship & Beyond", hosted by @ABDULLAH SHERIF=
+F<mailto:abdullah21110220@SNUCHENNAI.EDU.IN>, a 4th year AI & DS student at=
+ SNUC, on Wednesday, 12 February 2025 between 1 PM and 3:15 PM.
+
+Note: Efforts are underway to conduct the event at the Mini Auditorium, in =
+which case all of you - and your friends - can be completely accommodated. =
+However, in the event of unavailability of the Mini Audi, we will be organi=
+sing the event in one of the Lecture Halls, in which case we can only accom=
+modate up to 120 students.
+
+Hence, we request you to fill <https://forms.office.com/r/FqwByieRKz> this =
+form<https://forms.office.com/r/FqwByieRKz>. In case of unavailability of t=
+he Mini Audi, seats will be allocated to the respondents of this form on a =
+First Response, First Served basis.
+
+You will be notified about the venue and other details tentatively by Monda=
+y, 10 Feb 2025.
+
+Looking forward to meeting you at the event!
+
+Warm regards,
+The SNUC Coding Club
+------------------------------
+
+P.S.
+
+If you are curious about the contents of the session, @ABDULLAH SHERIFF<mai=
+lto:abdullah21110220@SNUCHENNAI.EDU.IN> wants to you to know everything tha=
+t will be discussed. By the end of the session, will have gained exposure t=
+o:
+
+  *
+Types of Internships
+     *
+Academia | Industry | more.
+  *
+To find internships
+     *
+On-campus | Hackathons | Referrals | Sites | Networking.
+  *
+Pro Tips & Tools
+     *
+Introduction to Resume Creation on LaTeX w/ Overleaf.
+     *
+Resume Format + X-Y-Z formula.
+     *
+Worklife tracker & Job Application Trackers.
+     *
+Top resumes from our Campus : D
+  *
+Types of roles
+     *
+DevOps, MLOps, Data Scientist, Quantum, Security, Networking, Hardware, & m=
+ore.
+  *
+Misc
+     *
+Internship mindset: Value provided > Value earned & Learn to learn.
+     *
+What is the best time to intern?
+     *
+The other side - what do recruiters expect?
+
+
+
+--_000_PN2PR01MB9862BFD46E2F60D954D21ABE97FA2PN2PR01MB9862INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Dear Students,</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<a href=3D"mailto:abdullah21110220@SNUCHENNAI.EDU.IN" id=3D"OWAAM116287" cl=
+ass=3D"tWKOu mention ms-bgc-nlr ms-fcl-b" style=3D"margin: 0px; padding-rig=
+ht: 1px; padding-left: 1px; border-radius: 2px;">@ABDULLAH SHERIFF</a>&nbsp=
+;is conducting the session in the trailing email
+ from 01:00 pm to 03:00 pm on Wednesday (19th&nbsp;February 2025) at the Le=
+cture Hall in AB-3 (Ground Floor).</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+To the 2nd year students, please read the trailing email for more details. =
+In short, you will gain knowledge about
+<b>the internship / placement landscape</b>&nbsp;&amp; <b>the skills &amp; =
+habits (hands-on)</b>&nbsp;that will help you achieve your goals - be it ma=
+sters, placements, or anything apart from these generic options.&nbsp;</div=
+>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<u>Requirements:</u></div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Kindly bring <b>a fully charged Laptop</b>&nbsp;for the hands-on, although =
+we will try our best to ensure that those without one can equally reap the =
+benefits.</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+You may ignore the form in the trailing email.&nbsp;</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+Warm regards,</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+The SNUC Coding Club</div>
+<div style=3D"text-align: left; text-indent: 0px; margin: 0px; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div id=3D"appendonsend"></div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, =
+Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<hr style=3D"display: inline-block; width: 98%;">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><span style=3D"font-family: Calibri, =
+sans-serif; font-size: 11pt; color: rgb(0, 0, 0);"><b>From:</b>&nbsp;coding=
+club<br>
+<b>Sent:</b>&nbsp;Sunday, February 9, 2025 12:57 PM<br>
+<b>To:</b>&nbsp;ug-cse-2024 &lt;ug-cse-2024@snuchennai.edu.in&gt;<br>
+<b>Cc:</b>&nbsp;Santhi Natarajan &lt;santhinatarajan@snuchennai.edu.in&gt;;=
+ Dr. Sundharakumar K B &lt;sundharakumarkb@snuchennai.edu.in&gt;; Muthu Pal=
+aniappan M &lt;muthu21110142@SNUCHENNAI.EDU.IN&gt;; Kandukuri Lohith Saradh=
+i &lt;lohith21110257@SNUCHENNAI.EDU.IN&gt;; cse.faculty &lt;cse.faculty@snu=
+chennai.edu.in&gt;<br>
+<b>Subject:</b>&nbsp;Internship &amp; Beyond | On-Campus Session</span>
+<div>&nbsp;</div>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Dear Students,</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, H=
+elvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, H=
+elvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Have you had the following questions:</div>
+<ol start=3D"1" style=3D"direction: ltr; text-align: left;">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">When&nbsp;am I eligible for an =
+internship?</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Where to find internships?</div=
+>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Why are people talking about in=
+ternships? Just how important are they?</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">What are the types of internshi=
+ps? (Pro question)</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">How do I navigate this landscap=
+e and <b>
+do what is best for me</b>?</div>
+</li></ol>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; margin: 0=
+px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, H=
+elvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+If you have had or see yourself having these questions in the future - we w=
+elcome you to our session
+<b>&quot;Internship &amp; Beyond&quot;</b>, hosted by <a href=3D"mailto:abd=
+ullah21110220@SNUCHENNAI.EDU.IN" id=3D"OWAAM418605" class=3D"x_tWKOu x_ment=
+ion x_ms-bgc-nlr x_ms-fcl-b">
+@ABDULLAH SHERIFF</a>, a 4th year AI &amp; DS student at SNUC, on <b>Wednes=
+day, 12 February 2025
+</b>between <b>1 PM and 3:15 PM.</b></div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+<b>Note:</b>&nbsp;Efforts are underway&nbsp;to conduct the event at the <b>=
+Mini Auditorium</b>, in which case all of you - and your friends - can be c=
+ompletely accommodated. However, in the event of unavailability of the Mini=
+ Audi, we will be organising the event in
+ one of the <b>Lecture Halls</b>, in which case we can only accommodate up =
+to <b>
+120 students</b>.</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Hence, we request you to <b><a href=3D"https://forms.office.com/r/FqwByieRK=
+z" id=3D"OWA5fe5aa47-9033-6aae-2135-087356e8c91f" class=3D"x_OWAAutoLink" t=
+itle=3D"https://forms.office.com/r/FqwByieRKz" data-auth=3D"NotApplicable">=
+fill
+</a></b><span style=3D"color: rgb(17, 85, 204);"><b><a href=3D"https://form=
+s.office.com/r/FqwByieRKz" id=3D"OWA0721a67e-6bb8-46c2-0d00-a9c9db11c5c8" c=
+lass=3D"x_OWAAutoLink" title=3D"https://forms.office.com/r/FqwByieRKz" data=
+-auth=3D"NotApplicable">this form</a></b></span>.
+<i>In case of unavailability of the Mini Audi, </i><b><i>seats will be allo=
+cated</i></b><i>&nbsp;</i><b><i>to the respondents of this form</i></b><i>&=
+nbsp;on a</i><b><i>&nbsp;First Response, First Served</i></b><i>&nbsp;basis=
+</i>.&nbsp;</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+You will be notified about the venue and other details tentatively by Monda=
+y, 10 Feb 2025.</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Looking forward to meeting you&nbsp;at the event!<br>
+<br>
+<b>Warm regards,</b></div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+The SNUC Coding Club</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+------------------------------</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+P.S.</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+If you are curious about the contents of the session, <a href=3D"mailto:abd=
+ullah21110220@SNUCHENNAI.EDU.IN" id=3D"OWAAM119157" class=3D"x_tWKOu x_ment=
+ion x_ms-bgc-nlr x_ms-fcl-b">
+@ABDULLAH SHERIFF</a>&nbsp;wants to you to know everything that will be dis=
+cussed. By the end of the session, will have gained exposure to:</div>
+<ul style=3D"direction: ltr; text-align: left;">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;"><b>Types of Internships</b></di=
+v>
+</li><ul style=3D"direction: ltr;">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Academia | Industry | more.</di=
+v>
+</li></ul>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;"><b>To find&nbsp;internships</b>=
+</div>
+</li><ul style=3D"direction: ltr;">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">On-campus | Hackathons | Referr=
+als | Sites | Networking.</div>
+</li></ul>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;"><b>Pro Tips &amp; Tools</b></di=
+v>
+</li><ul style=3D"direction: ltr;">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Introduction to Resume Creation=
+ on <b>LaTeX w/ Overleaf</b>.</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Resume Format + <b>X-Y-Z formul=
+a</b>.</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Worklife tracker &amp; Job Appl=
+ication <b>Trackers</b>.</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Top resumes from our Campus : D=
+&nbsp;</div>
+</li></ul>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;"><b>Types of roles</b></div>
+</li><ul style=3D"direction: ltr;">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">DevOps, MLOps, Data Scientist, =
+Quantum, Security, Networking, Hardware, &amp; more.</div>
+</li></ul>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;"><b>Misc</b></div>
+</li><ul style=3D"direction: ltr;">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin=
+-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">Internship mindset: <b>Value pr=
+ovided &gt; Value earned</b>&nbsp;&amp;
+<b>Learn to learn</b>.</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">What is the best time to intern=
+?</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); m=
+argin-left: 15px;">
+<div style=3D"direction: ltr; margin: 0px;">The other side - what do recrui=
+ters expect?</div>
+</li></ul>
+</ul>
+<div style=3D"direction: ltr; text-align: left; text-indent: 0px; font-fami=
+ly: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; font-family: Aptos, Aptos_EmbeddedFont, Aptos=
+_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb=
+(0, 0, 0);">
+<br>
+</div>
+</body>
+</html>
+
+--_000_PN2PR01MB9862BFD46E2F60D954D21ABE97FA2PN2PR01MB9862INDP_--

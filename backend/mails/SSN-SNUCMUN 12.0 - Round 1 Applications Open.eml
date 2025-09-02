@@ -1,0 +1,254 @@
+Received: from PN3PR01MB6682.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ MA1PR01MB3753.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Fri, 4 Jul 2025 17:15:34
+ +0000
+Received: from PN3PR01MB9583.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:f7::6)
+ by PN3PR01MB6682.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:89::5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8901.21; Fri, 4 Jul
+ 2025 17:15:30 +0000
+Received: from PN0PR01MB5999.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:61::14)
+ by PN3PR01MB9583.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:f7::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8901.23; Fri, 4 Jul
+ 2025 17:15:27 +0000
+Received: from PN0PR01MB5999.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d46d:e38:c98a:bdc6]) by PN0PR01MB5999.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d46d:e38:c98a:bdc6%7]) with mapi id 15.20.8901.021; Fri, 4 Jul 2025
+ 17:15:27 +0000
+From: munsociety <munsociety@SNUCHENNAI.EDU.IN>
+To: ug-2023 <ug-2023@snuchennai.edu.in>, ug-2021 <ug-2021@snuchennai.edu.in>,
+	ug-2024 <ug-2024@snuchennai.edu.in>, mtech-ai-ds-2023
+	<mtech-ai-ds-2023@snuchennai.edu.in>, mtech-ai-ds-2024
+	<mtech-ai-ds-2024@snuchennai.edu.in>, ba-llb-2024
+	<ba-llb-2024@snuchennai.edu.in>
+CC: Shreya Nandagopal <shreya23110216@snuchennai.edu.in>, Mahasvan Mohan
+	<mahasvan22110406@snuchennai.edu.in>, Achyuth Mukund
+	<achyuth22110435@snuchennai.edu.in>, "Dr. Venugopal P"
+	<venugopalp@snuchennai.edu.in>, Rohit M <rohitm@snuchennai.edu.in>, INDRANI
+ SENGUPTA <indranisengupta@snuchennai.edu.in>,
+	"aashrithsudharshan2210123@ssn.edu.in"
+	<aashrithsudharshan2210123@ssn.edu.in>, "abyaz2310100@ssn.edu.in"
+	<abyaz2310100@ssn.edu.in>, "marthak@ssn.edu.in" <marthak@ssn.edu.in>,
+	"sudharsan2210872@ssn.edu.in" <sudharsan2210872@ssn.edu.in>
+Subject: SSN-SNUCMUN 12.0 - Round 1 Applications Open
+Thread-Topic: SSN-SNUCMUN 12.0 - Round 1 Applications Open
+Thread-Index: AQHb7Qc8se5z1aBPDE2EN3YodMJtkw==
+Date: Fri, 4 Jul 2025 17:15:26 +0000
+Message-ID:
+ <PN0PR01MB59990D0080F1C298DAA06A778F42A@PN0PR01MB5999.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PN0PR01MB5999.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ 418fae34-2241-45cb-1011-08ddbb1e5ec2
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress:
+ 2409:40f4:116:b51e:54cb:de3f:111d:5542
+x-ms-exchange-organization-originalserveripaddress: 2603:1096:c01:61::14
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ MAC/EtT6rslfuWAerXhofiXtSukKQLuTcH7ce/9uFW/INT9Hvujjy0ek+1/NkBtWIYduw0j6lLnUsFhGOikE3wAg32LsBJy5jAQHx0aL6Hptxbhn1DszjRRBxSDC53JU7eZ5RpoomNUm5wkx1ZyGATF4WqScP9KvuwSfinlm5yUahd11bUQsrCA+Atxa3pX/CwJu8hpp+rvVMrsIECs2vDVms9gIP7zde9eVHboG/QMI4iLl828S4kFh2cS72Gqi9eS8xdq+JHh0T5czoZA8ZQwFUUwvDhXWSqokxu0NUuLDJTqF3m83km05aONmuqltnjAdMZi18jPcu9hVPkrkjTCwVZrOedwPy4Tviw9b7Y8exILEDv38JgIpQAoOSbzZE+lhBxWCj7aNJiCtkqIZiJn78RkbGCoka1sMGOumFk55fNDgRVnjL4NoDRn4w0trYeKmTigm+KM5vNCvoPBRDmSk0FWxWXgSv2NtF+Q7DFIck3g/uKsvkOCCaJjIwiwmmdZsRu5Dxn5guyG2ZE7IEWIHVreDubrKlxUzKrVxd/XqU1uhX2E8cGkpoGmh4SDNyhANxxZPkikDssmeRRSgUSa3h5xhZI2ay/wKHA8Z2hSIOLznZCwJRIDiPl3m61LYCF5c6/N47ZsWdCLgJGajrzcstrXQ+TJ7U9DQl1S1L2hv44+DJgLLjjFXkyvgyokWR+aVULU1CYikGBsZUrxNmjwSU0x99FZPI4PxJpY0hctqQ/qoS9bRtejFUObA7WqZ+UsY3Kon5brZO7lZ0JPFTPp48WXQC7z/VQX2TMVewRI=
+Content-Type: multipart/alternative;
+	boundary="_000_PN0PR01MB59990D0080F1C298DAA06A778F42APN0PR01MB5999INDP_"
+MIME-Version: 1.0
+
+--_000_PN0PR01MB59990D0080F1C298DAA06A778F42APN0PR01MB5999INDP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+SSN MUNSOC and SNUC MUNSOC are thrilled to announce that registrations for =
+the 12th edition of the much awaited SSN-SNUC MUN are officially OPEN!
+
+It is the time of the year when debate, delegates and diplomacy to take cen=
+ter stage! From high-stakes negotiation to the finest nuances of global pol=
+icy, this year=92s MUN promises to be more thrilling than ever. Whether you=
+ prefer classics like UNGA and ECOSOC or are ready to dive into specialized=
+ powerhouses like Bilderberg and A.R.E.S., there is something for everyone =
+across our 8 dynamic committees.
+
+Dear first-timers and MUN veterans, SSN-SNUC MUN'25 is now open to you! Con=
+sider this an invite and a sign to register, NOW!
+
+Dates : 8th, 9th, and 10th August 2025
+
+Don=92t miss out on the chance to represent, debate, and lead. Grab your pr=
+eferred committee allotment while slots last!
+
+Register now: ssnsnucmun.in<http://ssnsnucmun.in>
+SSN-SNUC MUN 12th Edition<http://ssnsnucmun.in/>
+The Official Website for SSN-SNUC MUN. SSN-SNUC MUN 12th Edition is happeni=
+ng August 8, 9 &amp; 10, 2025.
+ssnsnucmun.in
+
+Feel free to contact our
+Delegate Affairs team for further queries.
+Anindhitha Aravind - +91 6381567670
+Jagrath Mithun - +91 75501 83315
+Bhavana - +91 8015142402
+
+Warm Regards,
+Secretariat,
+SSN-SNUC MUN'25
+
+--_000_PN0PR01MB59990D0080F1C298DAA06A778F42APN0PR01MB5999INDP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+SSN MUNSOC and SNUC MUNSOC are thrilled to announce that registrations for =
+the 12th edition of the much awaited SSN-SNUC MUN are officially OPEN!</div=
+>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+It is the time of the year when debate, delegates and diplomacy to take cen=
+ter stage! From high-stakes negotiation to the finest nuances of global pol=
+icy, this year=92s MUN promises to be more thrilling than ever. Whether you=
+ prefer classics like UNGA and ECOSOC
+ or are ready to dive into specialized powerhouses like Bilderberg and A.R.=
+E.S., there is something for everyone across our 8 dynamic committees.</div=
+>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Dear first-timers and MUN veterans, SSN-SNUC MUN'25 is now open to you! Con=
+sider this an invite and a sign to register, NOW!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Dates : 8th, 9th, and 10th August 2025</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Don=92t miss out on the chance to represent, debate, and lead. Grab your pr=
+eferred committee allotment while slots last!</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Register now: <a href=3D"http://ssnsnucmun.in" id=3D"LPlnk374256" title=3D"=
+ssnsnucmun.in">
+ssnsnucmun.in</a></div>
+<div class=3D"_Entity _EType_OWALinkPreview _EId_OWALinkPreview_1 _EReadonl=
+y_1" style=3D"width: 100%; display: inline-block;">
+<div id=3D"LPBorder_GTaHR0cDovL3NzbnNudWNtdW4uaW4v" class=3D"LPBorder651917=
+" style=3D"width: 100%; margin-top: 16px; margin-bottom: 16px; position: re=
+lative; max-width: 800px; min-width: 424px;">
+<table id=3D"LPContainer651917" role=3D"presentation" style=3D"padding: 12p=
+x 36px 12px 12px; width: 100%; border-width: 1px; border-style: solid; bord=
+er-color: rgb(200, 200, 200); border-radius: 2px;">
+<tbody>
+<tr valign=3D"top" style=3D"border-spacing: 0px;">
+<td style=3D"width: 100%;">
+<div id=3D"LPTitle651917" style=3D"font-size: 21px; font-weight: 300; margi=
+n-right: 8px; font-family: wf_segoe-ui_light, &quot;Segoe UI Light&quot;, &=
+quot;Segoe WP Light&quot;, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Taho=
+ma, Arial, sans-serif; margin-bottom: 12px;">
+<a target=3D"_blank" id=3D"LPUrlAnchor651917" href=3D"http://ssnsnucmun.in/=
+" style=3D"text-decoration: none; color: var(--themePrimary);">SSN-SNUC MUN=
+ 12th Edition</a></div>
+<div id=3D"LPDescription651917" style=3D"font-size: 14px; max-height: 100px=
+; color: rgb(102, 102, 102); font-family: wf_segoe-ui_normal, &quot;Segoe U=
+I&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif; margin-bottom: 12=
+px; margin-right: 8px; overflow: hidden;">
+The Official Website for SSN-SNUC MUN. SSN-SNUC MUN 12th Edition is happeni=
+ng August 8, 9 &amp;amp; 10, 2025.</div>
+<div id=3D"LPMetadata651917" style=3D"font-size: 14px; font-weight: 400; co=
+lor: rgb(166, 166, 166); font-family: wf_segoe-ui_normal, &quot;Segoe UI&qu=
+ot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif;">
+ssnsnucmun.in</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Feel free to contact our</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Delegate Affairs team for further queries.&nbsp;</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Anindhitha Aravind - +91 6381567670</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Jagrath Mithun - +91 75501 83315</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Bhavana - +91 8015142402</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Warm Regards,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Secretariat,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+SSN-SNUC MUN'25</div>
+</body>
+</html>
+
+--_000_PN0PR01MB59990D0080F1C298DAA06A778F42APN0PR01MB5999INDP_--

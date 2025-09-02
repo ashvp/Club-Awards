@@ -1,0 +1,498 @@
+Received: from PN0PR01MB6463.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ MA1PR01MB3753.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Tue, 25 Feb 2025 16:21:02
+ +0000
+Received: from MAZPR01MB8215.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:a6::13)
+ by PN0PR01MB6463.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:74::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8489.18; Tue, 25 Feb
+ 2025 16:20:59 +0000
+Received: from MA0PR01MB9751.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:e9::13)
+ by MAZPR01MB8215.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:a6::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8466.21; Tue, 25 Feb
+ 2025 16:20:55 +0000
+Received: from MA0PR01MB9751.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::6855:be87:2a51:121d]) by MA0PR01MB9751.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::6855:be87:2a51:121d%6]) with mapi id 15.20.8466.020; Tue, 25 Feb 2025
+ 16:20:55 +0000
+From: businessclub <businessclub@SNUCHENNAI.EDU.IN>
+To: ug-2022 <ug-2022@snuchennai.edu.in>, ug-2023 <ug-2023@snuchennai.edu.in>,
+	ug-2024 <ug-2024@snuchennai.edu.in>, ug-2021 <ug-2021@snuchennai.edu.in>,
+	mtech-ai-ds-2023 <mtech-ai-ds-2023@snuchennai.edu.in>, mtech-ai-ds-2024
+	<mtech-ai-ds-2024@snuchennai.edu.in>
+CC: Shrabani Mukherjee <shrabanim@snuchennai.edu.in>, Tanishk Jalan
+	<tanishk22310061@snuchennai.edu.in>
+Subject: Live Project to Learn and Upskill in Machine Learning (ML)
+Thread-Topic: Live Project to Learn and Upskill in Machine Learning (ML)
+Thread-Index: AQHbh6DMT9N/G6hCvkqCsh/DvPhZGw==
+Date: Tue, 25 Feb 2025 16:20:54 +0000
+Message-ID:
+ <MA0PR01MB975112C4D31E91E0B5AE952199C32@MA0PR01MB9751.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: MA0PR01MB9751.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ cf64e767-f2b5-4c72-0624-08dd55b8613a
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress: 182.74.172.122
+x-ms-exchange-organization-originalserveripaddress: ::1
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ R5pMZ4cpe+SKYIX8ljSc8X0bA+JK87vgN9hudXn/mqaJcQJtwm6Lyw5uK+yyQvNPZCh/u1wCX308O5Pga/4Ba/78DI3w7EGdiLov1FgvrQSrTBLzi/4dGfX/IWbhC17Tt8IkykiGqVG9x1pxGxeO4M5TlRQotOopEAjpOwqKGmLWgr7XPyx9eKeamLJ5xICjTXpZj+jgQVML1wLHljPyEl9XMSHeJ/pabnqsrwckmVzQVfVpgqC7sKyRQXpANtJB+5v1HdMZtdWgQ7DAuynxjo42LdtpSZbeOx8bpj+soF/6GxmDXYGRxVGalvKQfBawUL8DQldGyJw7YZZpNYILIUVpjzPYnhZL1WRB6NaBeMNO72bPo+MRVcago05noT5Z6UVI/j8nx/olVcTl5tFCykPBef9oXCeCjzXs4S7yCXdj2/MLcpMKmYnOp/KW9GO2Tai0OXP51gJEiyvXYQlH5rpDoT++QtBy81ASLPz1sBLTmheGMa3Q7YkRLsqbQDYVJ/38joFpFaTvOMWMQz9H72C5g2yQFNHXKmkaEiyK3yq39qtoUW5iMlirPADLjuVlEA/KNXxlyRF4lZDkOJOL40DSPU/ORG9b7pHYRQO4fL9EB7Pa9aCaZzv8YCe3U4EWi/dKQozagnWewRyrsyd3K6v/3ztkyLjgBvxjoIPihKDbO4TgLxBcw07TYf43RHDqjzlqBqC4UgMO44Ix4tHP1WBjsIBSIeU2n5gDS0ACZ5lcG4EFNOLc+xApahcImBjZTisx9FJ2EzpmZ2p3pGKpd1ixlUTsQ3iTn/2Fc6qQVP8=
+Content-Type: multipart/alternative;
+	boundary="_000_MA0PR01MB975112C4D31E91E0B5AE952199C32MA0PR01MB9751INDP_"
+MIME-Version: 1.0
+
+--_000_MA0PR01MB975112C4D31E91E0B5AE952199C32MA0PR01MB9751INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear SNU Chennai Students,
+
+We're pleased to extend applications for the Finlatics Machine Learning pro=
+gram, an online live project that helps students learn and gain experience =
+in using machine learning algorithms at the Shiv Nadar University, Chennai.
+
+This project is running at leading campuses, including IIT Bombay, IIT Madr=
+as, IIM Ahmedabad, IIM Bangalore, and BITS Pilani among others. Finlatics w=
+as curated at the prestigious Atal Incubation Centre, supported by the Atal=
+ Innovation Mission, NITI Aayog, and the Government of India.
+
+STRUCTURE of the Live Project:
+
+1. Learn the core concepts around Machine Learning algorithms
+2. Become proficient in using the Google Colab Notebook for machine learnin=
+g
+3. Engage in data preprocessing - a critical activity to prepare data sets =
+for building machine learning algorithms
+4. Gain an understanding of supervised and unsupervised machine learning al=
+gorithms using Python libraries
+5. Complete an industry-specific case project to understand the application=
+ of Machine Learning in business scenarios
+
+The project is doable along with any other commitment due to its work-from-=
+home and online structure.
+
+Student OUTCOMES:
+
+1. Certificate of Proficiency in Machine Learning
+2. Letter of Recommendation on performance
+
+To apply, students can fill out the form below, and we will get in touch:
+
+https://www.finlatics.com/ml_application?src=3Dsnuch
+
+No prerequisites or prior domain knowledge are required to participate in t=
+he program. The program will impart all necessary training on Python and ma=
+chine learning techniques.
+
+Project Duration: 1 month / 2 months (on student choice)
+
+Time Commitment: 3-4 hours per week.
+
+Project Start: Flexible start date option on selected student choice.
+
+Project Break & Extension: Selected students will be eligible for a break o=
+r extension during the project if needed for any exams, assignments, or per=
+sonal commitments.
+
+If selected, the project has a minimal induction fee of Rs. 2999 + GST.
+
+Fee Waiver: A fee waiver of 35% shall be given to all Shiv Nadar University=
+, Chennai students on the abovementioned minimal induction fee.
+
+To be eligible for the fee waiver, kindly apply through the above-mentioned=
+ link only.
+
+We are excited to have a fruitful engagement.
+
+Thanks & Regards
+Team Finlatics
++91 9136072313
+Know more about us: https://www.finlatics.com/
+Visit us on Linkedin: https://www.linkedin.com/company/fincrux-enabling-ins=
+ights/
+[https://ci3.googleusercontent.com/mail-sig/AIorK4zNJ_y7C-xOG5O5bj5Cgo86x1n=
+BwY2jRc0BEQ56D2qDT6e5fMK5sOANRSijWmtvj-f9Pi6dsRI]
+Mumbai: 903, Atrium 2, Andheri - Kurla Road, Andheri (E), Mumbai 40009
+Gurgaon: 424A, Fourth Floor - Tower B3, Spaze I-Tech Park, Sohna Road, Sect=
+or 49, Gurgaon 122018
+
+
+___________________________________________________________________________=
+___________________
+
+Disclaimer : This message is intended to inform you about the programs offe=
+red by Finlatics, the department sponsor of the Department of Commerce and =
+Economics for Invente'24.
+
+Participation in the program is entirely at your own discretion. The inform=
+ation provided in this message is for promotional purposes only.
+
+--_000_MA0PR01MB975112C4D31E91E0B5AE952199C32MA0PR01MB9751INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Dear SNU Chennai Students,</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+We're pleased to extend applications for the <b>Finlatics&nbsp;Machine <wbr=
+>Learning </b>
+program,&nbsp;an online <b>live project</b>&nbsp;that helps students learn =
+and gain <b>experience
+</b>in <b>using <wbr>machine&nbsp;learning&nbsp;algorithms </b>at the <b>Sh=
+iv Nadar University,&nbsp;Chennai.</b></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+This&nbsp;project is running at leading campuses, including <b>IIT Bombay, =
+IIT Madras, IIM Ahmedabad,&nbsp;IIM Bangalore, and BITS Pilani</b>&nbsp;amo=
+ng others.<b>&nbsp;Finlatics
+</b>was curated at the prestigious<b>&nbsp;Atal Incubation Centre, supporte=
+d by the Atal Innovation Mission, NITI Aayog, and the&nbsp;Government of In=
+dia</b>.&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b><u>STRUCTURE of the Live Project:</u></b></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+1. Learn the <b>core concepts </b>around&nbsp;Machine <wbr>Learning&nbsp;al=
+gorithms</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+2. Become proficient in using the <b>Google Colab Notebook</b>&nbsp;for&nbs=
+p;machine&nbsp;learning</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+3. Engage in <b>data preprocessing</b>&nbsp;- a critical activity to prepar=
+e data sets for building&nbsp;machine&nbsp;learning
+<wbr>algorithms&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+4. Gain an understanding of <b>supervised </b>and <b>unsupervised<wbr>&nbsp=
+;</b>machine&nbsp;learning&nbsp;algorithms using Python libraries</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+5. Complete an <b>industry-specific case project</b>&nbsp;to understand the=
+ application of&nbsp;Machine&nbsp;Learning&nbsp;in business scenarios</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+The project is doable along with any other commitment due to its <b>work-fr=
+om-home and online</b>&nbsp;structure.</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Student OUTCOMES:</b></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+1. <b>Certificate of Proficiency </b>in<b>&nbsp;Machine <wbr>Learning</b></=
+div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+2. <b>Letter of Recommendation </b>on performance</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+To <b>apply</b>, students can fill out the form below, and we will get in t=
+ouch:&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(17, 85, 204);=
+">
+<a href=3D"https://www.finlatics.com/ml_application?src=3Dsnuch" target=3D"=
+_blank" id=3D"OWA6acc6af5-e97c-b343-98da-40efe0a26ffd" class=3D"OWAAutoLink=
+" data-saferedirecturl=3D"https://www.google.com/url?q=3Dhttps://www.finlat=
+ics.com/ml_application?src%3Dsnuch&amp;source=3Dgmail&amp;ust=3D17405866009=
+07000&amp;usg=3DAOvVaw1bWw4Nh04r0m9JZGIBX2oK" style=3D"color: rgb(17, 85, 2=
+04);">https://www.finlatics.com/ml_<wbr>application?src=3Dsnuch</a></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>No prerequisites</b>&nbsp;or prior domain knowledge are required to part=
+icipate in the program. The program will impart all necessary
+<b>training </b>on <b>Python </b>a<wbr>nd <b>machine&nbsp;learning&nbsp;tec=
+hniques</b><wbr>.</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Project Duration: </b>1 month /<b>&nbsp;</b>2 months (on student choice)=
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Time Commitment:</b>&nbsp;3-4 hours per week.</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Project Start</b>: <b>Flexible start date option</b>&nbsp;on selected st=
+udent choice.&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Project Break &amp; Extension</b>: Selected students will be eligible fo=
+r a <b>break or extension</b>&nbsp;during the project if needed for any
+<b>exams, assignments, </b>or <b>personal</b>&nbsp;<wbr>commitments.&nbsp;<=
+/div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+If selected, the project has a minimal induction&nbsp;fee&nbsp;of&nbsp;Rs. =
+2999&nbsp;+ GST.</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Fee&nbsp;Waiver: </b>A <b>fee&nbsp;waiver </b>of <b>35<wbr>%</b>&nbsp;sh=
+all be given to all <b>
+Shiv Nadar University,&nbsp;Chennai </b>students on the abovementioned mini=
+mal induction&nbsp;fee.</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+To be eligible for the fee waiver, kindly apply through the above-mentioned=
+ link only.</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+We are excited to have a fruitful engagement.&nbsp;</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, =
+Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService=
+, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Thanks &amp; Regards</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+Team Finlatics</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
++91 9136072313</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<i>Know more about us: </i><span style=3D"color: rgb(17, 85, 204);"><i><a h=
+ref=3D"https://www.finlatics.com/" target=3D"_blank" id=3D"OWA14171f69-3eed=
+-1779-168f-021dc4357d64" class=3D"OWAAutoLink" rel=3D"noreferrer" data-safe=
+redirecturl=3D"https://www.google.com/url?q=3Dhttps://www.finlatics.com/&am=
+p;source=3Dgmail&amp;ust=3D1740586600907000&amp;usg=3DAOvVaw10aLjD1SYYSGePm=
+uPg0LMq" style=3D"color: rgb(17, 85, 204);">https://www.finlatics.com/</a><=
+/i></span></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<i>Visit us on Linkedin: </i><span style=3D"color: rgb(17, 85, 204);"><i><a=
+ href=3D"https://www.linkedin.com/company/fincrux-enabling-insights/" targe=
+t=3D"_blank" id=3D"OWA2dbc4bd0-fa8d-f85e-7546-bd9ccbfafcef" class=3D"OWAAut=
+oLink" rel=3D"noreferrer" data-saferedirecturl=3D"https://www.google.com/ur=
+l?q=3Dhttps://www.linkedin.com/company/fincrux-enabling-insights/&amp;sourc=
+e=3Dgmail&amp;ust=3D1740586600907000&amp;usg=3DAOvVaw0x2Np2VNPGuyATY_5k9IUV=
+" style=3D"color: rgb(17, 85, 204);">https://www.<wbr style=3D"color: rgb(1=
+7, 85, 204);">linkedin.com/company/fincrux-<wbr style=3D"color: rgb(17, 85,=
+ 204);">enabling-insights/</a></i></span></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<img data-bit=3D"iit" width=3D"200" height=3D"60" style=3D"width: 200px; he=
+ight: 60px;" src=3D"https://ci3.googleusercontent.com/mail-sig/AIorK4zNJ_y7=
+C-xOG5O5bj5Cgo86x1nBwY2jRc0BEQ56D2qDT6e5fMK5sOANRSijWmtvj-f9Pi6dsRI"></div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Mumbai</b>: 903, Atrium 2, Andheri - Kurla Road, Andheri (E), Mumbai 400=
+09</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<span style=3D"font-weight: bolder;">Gurgaon: </span>424A, Fourth Floor - T=
+ower B3, Spaze I-Tech Park, Sohna Road, Sector 49, Gurgaon 122018</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: normal; margin: 0cm 0cm 0.0001pt; font-family:=
+ Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-s=
+erif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+___________________________________________________________________________=
+___________________<br>
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: 1.38; margin: 0pt 0px; font-family: Aptos, Apt=
+os_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-=
+size: 12pt; color: rgb(0, 0, 0);">
+<span style=3D"font-weight: 700;">Disclaimer</span>&nbsp;: This message is =
+intended to inform you about the programs offered by Finlatics, the departm=
+ent sponsor of the Department of Commerce and Economics for Invente'24.&nbs=
+p;</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: 1.38; margin: 0pt 0px; font-family: Aptos, Apt=
+os_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-=
+size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"direction: ltr; text-align: left; te=
+xt-indent: 0px; line-height: 1.38; margin: 0pt 0px; font-family: Aptos, Apt=
+os_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-=
+size: 12pt; color: rgb(0, 0, 0);">
+Participation in the program is entirely at your own discretion. The inform=
+ation provided in this message is for promotional purposes only.&nbsp;</div=
+>
+</body>
+</html>
+
+--_000_MA0PR01MB975112C4D31E91E0B5AE952199C32MA0PR01MB9751INDP_--

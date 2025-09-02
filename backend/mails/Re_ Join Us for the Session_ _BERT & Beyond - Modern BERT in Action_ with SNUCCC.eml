@@ -1,0 +1,306 @@
+Received: from PN0PR01MB9898.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ MA1PR01MB3753.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Wed, 8 Jan 2025 11:22:22
+ +0000
+Received: from PNXPR01MB6962.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:c1::7)
+ by PN0PR01MB9898.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:13a::9) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8314.18; Wed, 8 Jan
+ 2025 11:22:18 +0000
+Received: from PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:12f::13)
+ by PNXPR01MB6962.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:c1::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8335.11; Wed, 8 Jan
+ 2025 11:22:15 +0000
+Received: from PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d9f9:890e:f666:bafb]) by PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::d9f9:890e:f666:bafb%5]) with mapi id 15.20.8335.011; Wed, 8 Jan 2025
+ 11:22:15 +0000
+From: codingclub <codingclub@SNUCHENNAI.EDU.IN>
+To: ug-2021 <ug-2021@snuchennai.edu.in>, ug-2022 <ug-2022@snuchennai.edu.in>,
+	ug-2023 <ug-2023@snuchennai.edu.in>, ug-2024 <ug-2024@snuchennai.edu.in>,
+	mtech-ai-ds-2023 <mtech-ai-ds-2023@snuchennai.edu.in>, mtech-ai-ds-2024
+	<mtech-ai-ds-2024@snuchennai.edu.in>, Muthu Palaniappan M
+	<muthu21110142@SNUCHENNAI.EDU.IN>
+CC: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>, "Dr. Sundharakumar K
+ B" <sundharakumarkb@snuchennai.edu.in>, Kandukuri Lohith Saradhi
+	<lohith21110257@SNUCHENNAI.EDU.IN>, Raaghav Pohutezhini
+	<raaghav21110264@SNUCHENNAI.EDU.IN>, clubs <clubs@snuchennai.edu.in>
+Subject: Re: Join Us for the Session: "BERT & Beyond - Modern BERT in Action"
+ with SNUCCC
+Thread-Topic: Join Us for the Session: "BERT & Beyond - Modern BERT in Action"
+ with SNUCCC
+Thread-Index: AQHbYDRji3xoDh3s/Equwpn3dm6dEbMMvgqk
+Date: Wed, 8 Jan 2025 11:22:14 +0000
+Message-ID:
+ <PN2PR01MB98624E95F1E29CAD2C565D1797122@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+References:
+ <PN2PR01MB986284570D4B1406C705CFF697102@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+In-Reply-To:
+ <PN2PR01MB986284570D4B1406C705CFF697102@PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PN2PR01MB9862.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ 67f7e939-9cf8-4cc9-ef2c-08dd2fd6b440
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress:
+ 2406:7400:ca:97f1:8179:a771:1a73:cb7e
+x-ms-exchange-organization-originalserveripaddress: ::1
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ Y84KjG8W3E9qDdE6vmhZb2Y23kFab49y482qOf9KH+g7LuPEVSrTk6DTk6MQil2DPdfXBqTuY5+eHmc2wExkeUdUJa+0sZ3qdOIWR5/s6IuaghkkWdP9UQBdTxMF0LVb0bo2/bEZ69Q/Uq2ChiLoKYWV9qaeI8lNxILsnB5juPZuAnlFoeXoe4Vt2R0a5DrPi7IXNhcQHRWbmnr+8Noqq0odp2Er+4VNvUQJWXuaccNv/fzWwq/fWf/Dl/rI1x9tBbn/UCBVi4qx8MkjRdfKzVftUeGk1E+jfYlnIRnIq0UzXaIOVSZsKk5NBTDbiMaDJC6dvupLkfLskCZsK9Mou7MajTigWi10GF1MzN32pGsS7KnaYxvVd5EdmLocPt0HMmND4J1H+X2jjm/++2yjW+sBrR3vsFgPXz8jFI/YvvhiWF1qTdsZN6xDkrxgs7o8RfBJGKGDkh/0otLqBeMTS6yk0cl6gEtSUtvnWmlw/CffWXRzQJCUXx4oPoc6oIYESPMOf9wZHEOJossR2Oiza2n0poj8W0EnnZ+2WuXr9E1k9avlBvTK1QEIm3ikyjgzyMQzKfArvqHvyErW9yYYo+ac/vwtVsl7YZxbS3ca1o0+ts5ED1SarThDiJXmG5QBxjT7Jkfv2GxMQWAIRVpb8+MNlEl28A5nQhAS8vsx60dzUCedNjQ48Xbw8/Ls8wNgi1XGiTGIgLczA/xvSS/FiZ/508W+ouwH25uxrIMbo+eAm8jBYOEUZQC8d9R3EgxTzCxS6SpYfLSXN7jEsn0nm3V8YI63bYogWzxaXq43/Xc=
+Content-Type: multipart/alternative;
+	boundary="_000_PN2PR01MB98624E95F1E29CAD2C565D1797122PN2PR01MB9862INDP_"
+MIME-Version: 1.0
+
+--_000_PN2PR01MB98624E95F1E29CAD2C565D1797122PN2PR01MB9862INDP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Dear All,
+This is a kind reminder that the registration for our session, "BERT & Beyo=
+nd - Modern BERT in Action," will close tonight at 11:59 PM IST.
+If you haven=92t registered yet, this is your last chance to register and j=
+oin us for an insightful session on NLP.
+Link: https://forms.office.com/r/SfcCjXXtcR
+
+Warm regards,
+Muthu Palaniappan M & Lohith KS
+
+President,
+
+SNUC Coding Club
+
+________________________________
+From: codingclub
+Sent: Monday, January 6, 2025 5:50 PM
+To: ug-2021 <ug-2021@snuchennai.edu.in>; ug-2022 <ug-2022@snuchennai.edu.in=
+>; ug-2023 <ug-2023@snuchennai.edu.in>; ug-2024 <ug-2024@snuchennai.edu.in>=
+; mtech-ai-ds-2023 <mtech-ai-ds-2023@snuchennai.edu.in>; mtech-ai-ds-2024 <=
+mtech-ai-ds-2024@snuchennai.edu.in>; Muthu Palaniappan M <muthu21110142@SNU=
+CHENNAI.EDU.IN>
+Cc: Santhi Natarajan <santhinatarajan@snuchennai.edu.in>; Dr. Sundharakumar=
+ K B <sundharakumarkb@snuchennai.edu.in>; Muthu Palaniappan M <muthu2111014=
+2@SNUCHENNAI.EDU.IN>; Kandukuri Lohith Saradhi <lohith21110257@SNUCHENNAI.E=
+DU.IN>; Raaghav Pohutezhini <raaghav21110264@SNUCHENNAI.EDU.IN>; clubs <clu=
+bs@snuchennai.edu.in>
+Subject: Join Us for the Session: "BERT & Beyond - Modern BERT in Action" w=
+ith SNUCCC
+
+Dear All,
+We are excited to invite you to an insightful session on the advancements i=
+n NLP titled "BERT & Beyond - Modern BERT in Action," led by @Muthu Palania=
+ppan M<mailto:muthu21110142@SNUCHENNAI.EDU.IN>. This online event will prov=
+ide a deep dive into Modern BERT and its impact on NLP workflows.
+Whether you're new to the field or already experienced, we guarantee a valu=
+able session for everyone. By the end of the session, you=92ll have a solid=
+ understanding of BERT and Modern BERT in action and learn how to leverage =
+it for projects, research, and career advancement. You will also get hands-=
+on experience with building RAG applications using Modern BERT!
+This session is ideal for students of all YOS who are interested in enhanci=
+ng their knowledge of NLP and BERT.
+Event Details
+
+  *   Date: 9th February 2025
+  *   Time: 8:30 PM to 10:00 PM IST
+  *   Location: Online (The link will be shared upon registration)
+
+How to Register: To attend the session, please register using the link prov=
+ided below. Only registered students will receive the link to attend the ev=
+ent. The registration will close on 8th February at 11:59 PM, so be sure to=
+ sign up before then.
+Register Here<https://forms.office.com/r/SfcCjXXtcR>
+We look forward to having you join us for this exciting and insightful sess=
+ion.
+
+Warm regards,
+Muthu Palaniappan M & Lohith KS
+
+President,
+
+SNUC Coding Club
+
+
+
+--_000_PN2PR01MB98624E95F1E29CAD2C565D1797122PN2PR01MB9862INDP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Dear All,</div>
+<div style=3D"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+This is a kind reminder that the registration for our session, <b>&quot;BER=
+T &amp; Beyond - Modern BERT in Action,&quot;</b>&nbsp;will close tonight a=
+t
+<b>11:59 PM IST</b>.</div>
+<div style=3D"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+If you haven=92t registered yet, this is your last chance to register and j=
+oin us for an insightful session on NLP.</div>
+<div style=3D"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Link: <a href=3D"https://forms.office.com/r/SfcCjXXtcR" id=3D"LPlnk255806">=
+https://forms.office.com/r/SfcCjXXtcR</a></div>
+<p style=3D"text-align: left; text-indent: 0px; line-height: 1.284; backgro=
+und-color: white; margin: 0px;">
+<span style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService,=
+ Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">War=
+m regards,<br>
+</span><span style=3D"font-family: Calibri, sans-serif; font-size: 12pt; co=
+lor: black; background-color: white;">Muthu Palaniappan M &amp; Lohith KS</=
+span></p>
+<p style=3D"text-align: left; text-indent: 0px; background-color: white; ma=
+rgin: 0px;">
+<span style=3D"font-family: Calibri, sans-serif; font-size: 10pt; color: bl=
+ack;">President,</span></p>
+<p style=3D"text-align: left; text-indent: 0px; background-color: white; ma=
+rgin: 0px;">
+<span style=3D"font-family: Calibri, sans-serif; font-size: 10pt; color: bl=
+ack;">SNUC Coding Club</span></p>
+<div style=3D"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div id=3D"appendonsend"></div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> codingclub<br>
+<b>Sent:</b> Monday, January 6, 2025 5:50 PM<br>
+<b>To:</b> ug-2021 &lt;ug-2021@snuchennai.edu.in&gt;; ug-2022 &lt;ug-2022@s=
+nuchennai.edu.in&gt;; ug-2023 &lt;ug-2023@snuchennai.edu.in&gt;; ug-2024 &l=
+t;ug-2024@snuchennai.edu.in&gt;; mtech-ai-ds-2023 &lt;mtech-ai-ds-2023@snuc=
+hennai.edu.in&gt;; mtech-ai-ds-2024 &lt;mtech-ai-ds-2024@snuchennai.edu.in&=
+gt;;
+ Muthu Palaniappan M &lt;muthu21110142@SNUCHENNAI.EDU.IN&gt;<br>
+<b>Cc:</b> Santhi Natarajan &lt;santhinatarajan@snuchennai.edu.in&gt;; Dr. =
+Sundharakumar K B &lt;sundharakumarkb@snuchennai.edu.in&gt;; Muthu Palaniap=
+pan M &lt;muthu21110142@SNUCHENNAI.EDU.IN&gt;; Kandukuri Lohith Saradhi &lt=
+;lohith21110257@SNUCHENNAI.EDU.IN&gt;; Raaghav Pohutezhini
+ &lt;raaghav21110264@SNUCHENNAI.EDU.IN&gt;; clubs &lt;clubs@snuchennai.edu.=
+in&gt;<br>
+<b>Subject:</b> Join Us for the Session: &quot;BERT &amp; Beyond - Modern B=
+ERT in Action&quot; with SNUCCC</font>
+<div>&nbsp;</div>
+</div>
+<style type=3D"text/css" style=3D"display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir=3D"ltr">
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+Dear All,</div>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+We are excited to invite you to an insightful session on the advancements i=
+n NLP titled &quot;<b><i>BERT &amp; Beyond - Modern BERT in Action</i></b>,=
+&quot; led by
+<a href=3D"mailto:muthu21110142@SNUCHENNAI.EDU.IN" id=3D"OWAAM235759" class=
+=3D"x_tWKOu x_mention x_ms-bgc-nlr x_ms-fcl-b">
+@Muthu Palaniappan M</a>. This <b><i>online event</i></b>&nbsp;will provide=
+ a deep dive into Modern BERT and its impact on NLP workflows.</div>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+Whether you're new to the field or already experienced, we guarantee a valu=
+able session for everyone. By the end of the session, you=92ll have a solid=
+ understanding of BERT and Modern BERT in action and learn how to leverage =
+it for projects, research, and career
+ advancement. You will also get <b><i>hands-on experience with building RAG=
+ applications using Modern BERT!</i></b></div>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+This session is ideal for students of all YOS who are interested in enhanci=
+ng their knowledge of NLP and BERT.</div>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+<b>Event Details</b></div>
+<ul style=3D"margin-top:0cm; margin-right:0cm; padding-left:0px">
+<li style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calib=
+ri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0); line-height:107%=
+; margin:0cm 0cm 8pt">
+<b>Date:</b> 9th February 2025</li><li style=3D"font-family:Aptos,Aptos_Emb=
+eddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt;=
+ color:rgb(0,0,0); line-height:107%; margin:0cm 0cm 8pt">
+<b>Time:</b> 8:30 PM to 10:00 PM IST</li><li style=3D"font-family:Aptos,Apt=
+os_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size=
+:12pt; color:rgb(0,0,0); line-height:107%; margin:0cm 0cm 8pt">
+<b>Location:</b> Online (The link will be shared upon registration)</li></u=
+l>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+<b>How to Register:</b>&nbsp;To attend the session, please register using t=
+he link provided below. Only registered students will receive the link to a=
+ttend the event. The registration will close on 8th February at 11:59 PM, s=
+o be sure to sign up before then.</div>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+<a href=3D"https://forms.office.com/r/SfcCjXXtcR" id=3D"LPlnk756084" class=
+=3D"x_OWAAutoLink" title=3D"https://forms.office.com/r/SfcCjXXtcR">Register=
+ Here</a></div>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+We look forward to having you join us for this exciting and insightful sess=
+ion.</div>
+<p style=3D"text-align:left; text-indent:0px; line-height:1.284; background=
+-color:white; margin:0px">
+<span style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cal=
+ibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">Warm regards,<=
+br>
+</span><span style=3D"font-family:Calibri,sans-serif; font-size:12pt; color=
+:black; background-color:white">Muthu Palaniappan M &amp; Lohith KS</span><=
+/p>
+<p style=3D"text-align:left; text-indent:0px; background-color:white; margi=
+n:0px"><span style=3D"font-family:Calibri,sans-serif; font-size:10pt; color=
+:black">President,</span></p>
+<p style=3D"text-align:left; text-indent:0px; background-color:white; margi=
+n:0px"><span style=3D"font-family:Calibri,sans-serif; font-size:10pt; color=
+:black">SNUC Coding Club</span></p>
+<div style=3D"line-height:1.284; margin:0cm 0cm 8pt; font-family:Aptos,Apto=
+s_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:=
+12pt; color:rgb(0,0,0)">
+<br>
+</div>
+<div style=3D"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Cali=
+bri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<br>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PN2PR01MB98624E95F1E29CAD2C565D1797122PN2PR01MB9862INDP_--

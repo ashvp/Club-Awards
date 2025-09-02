@@ -1,0 +1,148 @@
+Received: from PN3PPF414E9B81E.INDPRD01.PROD.OUTLOOK.COM (::1) by
+ MA1PR01MB3753.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Fri, 28 Feb 2025 15:48:25
+ +0000
+Received: from MAZPR01MB5526.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:61::7)
+ by PN3PPF414E9B81E.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c04:1::1d) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8489.23; Fri, 28 Feb
+ 2025 15:48:22 +0000
+Received: from PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:c01:246::11) by MAZPR01MB5526.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:a01:61::7) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8489.23; Fri, 28 Feb
+ 2025 15:48:19 +0000
+Received: from PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::1b00:9624:1135:939]) by PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::1b00:9624:1135:939%6]) with mapi id 15.20.8489.019; Fri, 28 Feb 2025
+ 15:48:18 +0000
+From: rhythm <rhythm@SNUCHENNAI.EDU.IN>
+To: ug-2023 <ug-2023@snuchennai.edu.in>, ug-2022 <ug-2022@snuchennai.edu.in>,
+	ug-2021 <ug-2021@snuchennai.edu.in>, mtech-ai-ds-2023
+	<mtech-ai-ds-2023@snuchennai.edu.in>, btech-iot-b-2021
+	<btech-iot-b-2021@snuchennai.edu.in>, btech-ai-ds-a-2021
+	<btech-ai-ds-a-2021@snuchennai.edu.in>, btech-iot-a-2021
+	<btech-iot-a-2021@snuchennai.edu.in>, btech-ai-ds-b-2021
+	<btech-ai-ds-b-2021@snuchennai.edu.in>
+CC: Nivedha B <nivedhab22310012@snuchennai.edu.in>, Nandini Arimanda
+	<nandini22110020@snuchennai.edu.in>, Arshia Ghosh
+	<arshia22210023@snuchennai.edu.in>, clubs <clubs@snuchennai.edu.in>
+Subject: =?Windows-1252?Q?Instincts=9225_Inaugural_performance?=
+Thread-Topic: =?Windows-1252?Q?Instincts=9225_Inaugural_performance?=
+Thread-Index: AQHbifG2lmF7IxfKBkWOVsYOIxahGA==
+Date: Fri, 28 Feb 2025 15:48:18 +0000
+Message-ID:
+ <PN3PPFAC4AA2B32F93995A442BC928466AA95CC2@PN3PPFAC4AA2B32.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-GB
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+ PNZPR01MB10605.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-Network-Message-Id:
+ 9d857e5f-a250-4a56-ad71-08dd580f5277
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+x-ms-exchange-organization-originalclientipaddress:
+ 2402:3a80:467:e854:18e0:9812:e4ab:9566
+x-ms-exchange-organization-originalserveripaddress: 2603:1096:c01:246::11
+x-ms-reactions: allow
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+ QTdxmwWRyrv3F6KpdZ8b8mpqxFFyG+TeoLWVxN7Hn6zZxUCn5JCqf/0k3yIFeXk+S0wXp8pv6AagR0Jv3lDNhrlEVjZxSA7Lq5lWswMxWQ5fEgwalFE5xJ1rRVR9RJ/KvO3fIB3XjxL3KxagTqZkBwODtjL2nd0GVRfWF9bq9xY3c2qcroAdWU9fjE926K4OpPT6cNWJWhAJ42jx5HXk0KKAmcOhUqXBDS6UlpcHXAc+hZEtUDG25i5oZ3Ky+PSngBNlPzlrnCTmAmzixfFBVnlbDo7MnG4/xZJnVazhOU2CRjIjvLH0RWwM6L21SmZBKiShqKJVSBliYymBOnYNoxk9hrHoOltL5P+3lPMU5v1xnhfuoQ8K0sp4u4kER2hWxD/dOmus69wTHtvMPGyuydVFAzlaJonD4N083Y9R/4f/bOuuQ1CFDQXZO/p+9kD68kfKs4ZSjLS93N31h/1ESbfMx5c6B8+qnDjU6RvVX5vvmarZ3Y5lyTMs4Q0A38HKMyAX1pFleoI3iZR6V1meKQXSei29V2Cbbj4UPqQqLMuZDa0n8HaG2s/lNDyeGweBHbATL6TCHyDlX2RKPbZ0kHd++hBQA8GXolKgRKQZLJCI/Ts4H1RSSuC6HAXZPiL3zSHDnHNei6bZum2MvgLVRYtHWlK5QQHIGVXhvr35jaOxV81KjhSg7PhHp9aaDfOFE7sn0GCh+YEzkDgCsjqueVdWth7gUi3OMWO8q06s+3yIaoQD/H8ib2ZqBlqd681QyAT3hTPjkrnDEx+IfuwzoiaQZk5Fix7YfH1PnJQcF4g=
+Content-Type: multipart/alternative;
+	boundary="_000_PN3PPFAC4AA2B32F93995A442BC928466AA95CC2PN3PPFAC4AA2B32_"
+MIME-Version: 1.0
+
+--_000_PN3PPFAC4AA2B32F93995A442BC928466AA95CC2PN3PPFAC4AA2B32_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hello everyone!
+
+ As we prepare for the much-awaited Instincts'25, it's time to gear up for =
+the grand opening event =96 The Inaugural, a collaboration with N2K. We inv=
+ite the interested students only from the 2nd, 3rd, and 4th years to showca=
+se their talents and be a part of this exciting event.
+
+To participate, please fill out the form provided.
+Here is the link to the Google form: https://forms.gle/aUcGqgq4EHNfWHpU7
+Please note that the form will close by 10PM tomorrow.
+
+Online auditions will be conducted soon, and the selected students will hav=
+e the chance to be a part of the event. If you have any questions , feel fr=
+ee to contact @Nivedha B<mailto:nivedhab22310012@snuchennai.edu.in> or @Nan=
+dini Arimanda<mailto:nandini22110020@snuchennai.edu.in>
+
+Don't miss out on this opportunity!
+
+Regards,
+Arshia and Nivedha
+Club heads - Rhythm
+
+--_000_PN3PPFAC4AA2B32F93995A442BC928466AA95CC2PN3PPFAC4AA2B32_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body>
+<div dir=3D"ltr">
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);">Hello everyone!</div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);"><br>
+</div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);">&nbsp;As we prepare for the=
+ much-awaited Instincts'25, it's time to gear up for the grand opening even=
+t =96 The Inaugural, a collaboration with N2K. We invite the interested stu=
+dents only from the
+<b>2nd, 3rd, and 4th years</b>&nbsp;to showcase their talents and be a part=
+ of this exciting event.&nbsp;</div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);"><br>
+</div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);">To participate, please fill=
+ out the form provided.</div>
+<div dir=3D"ltr"><span style=3D"color: rgb(0, 0, 0); background-color: rgb(=
+255, 255, 255);">Here is the link to the Google form:
+</span><span style=3D"color: rgb(0, 134, 240);"><a href=3D"https://forms.gl=
+e/aUcGqgq4EHNfWHpU7" rel=3D"noreferrer noopener" style=3D"color: rgb(0, 134=
+, 240);">https://forms.gle/aUcGqgq4EHNfWHpU7</a></span><span style=3D"color=
+: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">&nbsp;</span><span s=
+tyle=3D"color: rgb(0, 0, 0);">&nbsp;</span></div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);"><span style=3D"background-c=
+olor: rgb(255, 255, 255);">Please note that the form will close by 10PM tom=
+orrow.</span></div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);"><br>
+</div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);">Online auditions will be co=
+nducted soon, and the selected students will have the chance to be a part o=
+f the event. If you have any questions , feel free to contact
+<a href=3D"mailto:nivedhab22310012@snuchennai.edu.in" id=3D"OWAAM9cd6b163-e=
+482-4080-8278-ceae12be7b3e" rel=3D"noreferrer noopener" data-mention-id=3D"=
+OWAAM456262">
+@Nivedha B</a>&nbsp;or <a href=3D"mailto:nandini22110020@snuchennai.edu.in"=
+ id=3D"OWAAMf3c850cd-414a-4dbb-9883-e0f264497bdd" rel=3D"noreferrer noopene=
+r" data-mention-id=3D"OWAAM712536">
+@Nandini Arimanda</a></div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);"><br>
+</div>
+<div dir=3D"ltr" style=3D"color: rgb(0, 0, 0);">Don't miss out on this oppo=
+rtunity!</div>
+<div id=3D"ms-outlook-mobile-signature">
+<div dir=3D"ltr"><br>
+</div>
+<div dir=3D"ltr">Regards,</div>
+<div dir=3D"ltr">Arshia and Nivedha&nbsp;</div>
+<div dir=3D"ltr">Club heads - Rhythm&nbsp;</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PN3PPFAC4AA2B32F93995A442BC928466AA95CC2PN3PPFAC4AA2B32_--
